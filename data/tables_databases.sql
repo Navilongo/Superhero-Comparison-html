@@ -1,4 +1,4 @@
-drop table 
+drop table hero_teams;
 
 create table hero_teams (
 	id serial Primary Key,
@@ -15,17 +15,16 @@ create table heroes (
 	universe varchar, 
 	superhero varchar,
 	identity varchar,
-	backstory varchar,
-	powers varchar, 
 	gender varchar, 
 	race varchar, 
 	alignment varchar, 
-	teams varchar
-	intelligence score int,
-	strength score int,
-	speed score int, 
-	
-	
+	intelligence integer,
+	strength integer,
+	speed integer,
+	durability integer, 
+	power integer, 
+	combat integer	
 );
 
+select * FROM heroes;
 
