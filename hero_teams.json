@@ -1,0 +1,4561 @@
+[{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16298"
+  },
+  "superhero": "A-Bomb",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16299"
+  },
+  "superhero": "Abe Sapien",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629a"
+  },
+  "superhero": "Abomination",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629b"
+  },
+  "superhero": "Abra Kadabra (CW)",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629c"
+  },
+  "superhero": "Abraxas",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629d"
+  },
+  "superhero": "Absorbing Man (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629e"
+  },
+  "superhero": "Absorbing Man",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1629f"
+  },
+  "superhero": "Adam Strange",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a0"
+  },
+  "superhero": "Agent 13 (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a1"
+  },
+  "superhero": "Agent Bob",
+  "team": "HYDRA",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a2"
+  },
+  "superhero": "Agent Carter",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a3"
+  },
+  "superhero": "Agent Coulson (Destroyer Gun)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a4"
+  },
+  "superhero": "Agent Coulson (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a5"
+  },
+  "superhero": "Agent May (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a6"
+  },
+  "superhero": "Ajax",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a7"
+  },
+  "superhero": "Akita",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a8"
+  },
+  "superhero": "Alex Mercer",
+  "team": "none",
+  "universe ": "Wildstorm",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162a9"
+  },
+  "superhero": "Alfred (DCEU)",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162aa"
+  },
+  "superhero": "Alfred Pennyworth",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ab"
+  },
+  "superhero": "Alien",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ac"
+  },
+  "superhero": "Alucard",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ad"
+  },
+  "superhero": "Amadeus Cho",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ae"
+  },
+  "superhero": "Angel Dust",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162af"
+  },
+  "superhero": "Angel Salvadore (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b0"
+  },
+  "superhero": "Angel",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b1"
+  },
+  "superhero": "Animal Man",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b2"
+  },
+  "superhero": "Ant-Man II",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b3"
+  },
+  "superhero": "Ant-Man (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b4"
+  },
+  "superhero": "Ant-Man",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b5"
+  },
+  "superhero": "Anti-Monitor",
+  "team": "Green Lantern Corps",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b6"
+  },
+  "superhero": "Aqualad",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b7"
+  },
+  "superhero": "Aquaman (Injustice)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b8"
+  },
+  "superhero": "Ardina",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162b9"
+  },
+  "superhero": "Arnim Zola (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ba"
+  },
+  "superhero": "Arno Victor Dorian",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162bb"
+  },
+  "superhero": "Ash",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162bc"
+  },
+  "superhero": "Atom (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162bd"
+  },
+  "superhero": "Atom II",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162be"
+  },
+  "superhero": "Atom Smasher (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162bf"
+  },
+  "superhero": "Atomica",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c0"
+  },
+  "superhero": "Aurora",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c1"
+  },
+  "superhero": "Azrael (Gotham)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c2"
+  },
+  "superhero": "Aztar",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c3"
+  },
+  "superhero": "Bane (Dark Knight)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c4"
+  },
+  "superhero": "Banshee",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c5"
+  },
+  "superhero": "Baron Mordo (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c6"
+  },
+  "superhero": "Baron Zemo (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c7"
+  },
+  "superhero": "Baron Zemo",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c8"
+  },
+  "superhero": "Batgirl III",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162c9"
+  },
+  "superhero": "Batgirl (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ca"
+  },
+  "superhero": "Batgirl IV",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162cb"
+  },
+  "superhero": "Batman (Arkham)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162cc"
+  },
+  "superhero": "Batman (Burtonverse)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162cd"
+  },
+  "superhero": "Batman (GAM)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ce"
+  },
+  "superhero": "Batman II",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162cf"
+  },
+  "superhero": "Batman (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d0"
+  },
+  "superhero": "Batman (LEGO)",
+  "team": "Justice League",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d1"
+  },
+  "superhero": "Batroc The Leaper (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d2"
+  },
+  "superhero": "Battle-Suit Batman (DCEU)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d3"
+  },
+  "superhero": "Batwoman V",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d4"
+  },
+  "superhero": "Batwoman",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d5"
+  },
+  "superhero": "Beast Boy (Titans)",
+  "team": "Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d6"
+  },
+  "superhero": "Beast Boy",
+  "team": "Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d7"
+  },
+  "superhero": "Beetle",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d8"
+  },
+  "superhero": "Beta Ray Bill",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162d9"
+  },
+  "superhero": "Big Barda",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162da"
+  },
+  "superhero": "Bird-Man",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162db"
+  },
+  "superhero": "Bird",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162dc"
+  },
+  "superhero": "Bishop (Fox)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162dd"
+  },
+  "superhero": "Bishop",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162de"
+  },
+  "superhero": "Bizarro",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162df"
+  },
+  "superhero": "Black Bolt (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e0"
+  },
+  "superhero": "Black Bolt",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e1"
+  },
+  "superhero": "Black Canary (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e2"
+  },
+  "superhero": "Black Canary II (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e3"
+  },
+  "superhero": "Black Canary (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e4"
+  },
+  "superhero": "Black Canary",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e5"
+  },
+  "superhero": "Black Cat (PS4)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e6"
+  },
+  "superhero": "Black Cat",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e7"
+  },
+  "superhero": "Black Knight III",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e8"
+  },
+  "superhero": "Black Manta (DCEU)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162e9"
+  },
+  "superhero": "Blade",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ea"
+  },
+  "superhero": "Blink",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162eb"
+  },
+  "superhero": "Blob (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ec"
+  },
+  "superhero": "Bloodaxe",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ed"
+  },
+  "superhero": "Bloodhawk",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ee"
+  },
+  "superhero": "Blue Beetle II",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ef"
+  },
+  "superhero": "Blue Beetle (Injustice)",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f0"
+  },
+  "superhero": "Boom-Boom",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f1"
+  },
+  "superhero": "Bor Burison",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f2"
+  },
+  "superhero": "Brainiac",
+  "team": "Legion of Super-Heroes",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f3"
+  },
+  "superhero": "Brother Voodoo",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f4"
+  },
+  "superhero": "Buffy",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f5"
+  },
+  "superhero": "Bullseye",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f6"
+  },
+  "superhero": "Bumblebee",
+  "team": "Other",
+  "universe ": "Hasbro",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f7"
+  },
+  "superhero": "Buri",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f8"
+  },
+  "superhero": "Bushmaster (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162f9"
+  },
+  "superhero": "Butterball",
+  "team": "none",
+  "universe ": "Clive Barker",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162fa"
+  },
+  "superhero": "Cable (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162fb"
+  },
+  "superhero": "Cable",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162fc"
+  },
+  "superhero": "Captain Boomerang (CW)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162fd"
+  },
+  "superhero": "Captain Boomerang (DCEU)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162fe"
+  },
+  "superhero": "Captain Boomerang",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd162ff"
+  },
+  "superhero": "Captain Britain",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16300"
+  },
+  "superhero": "Captain Hindsight",
+  "team": "none",
+  "universe ": "South Park",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16301"
+  },
+  "superhero": "Captain Mar-vell",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16302"
+  },
+  "superhero": "Captain Metropolis",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16303"
+  },
+  "superhero": "Catwoman (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16304"
+  },
+  "superhero": "Catwoman",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16305"
+  },
+  "superhero": "Caulifla",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16306"
+  },
+  "superhero": "Cerebra",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16307"
+  },
+  "superhero": "Chamber",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16308"
+  },
+  "superhero": "Champion Of The Universe",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16309"
+  },
+  "superhero": "Cheetah II",
+  "team": "Secret Society of Super Villans",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630a"
+  },
+  "superhero": "Cheetah III",
+  "team": "Secret Society of Super Villans",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630b"
+  },
+  "superhero": "Cheshire",
+  "team": "Titans",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630c"
+  },
+  "superhero": "Citizen Steel (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630d"
+  },
+  "superhero": "Cole (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630e"
+  },
+  "superhero": "Collector",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1630f"
+  },
+  "superhero": "Colossus",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16310"
+  },
+  "superhero": "Connor Hawke",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16311"
+  },
+  "superhero": "Connor Kenway",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16312"
+  },
+  "superhero": "Constantine (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16313"
+  },
+  "superhero": "Copycat",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16314"
+  },
+  "superhero": "Corvus Glaive (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16315"
+  },
+  "superhero": "Cosmo The Spacedog",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16316"
+  },
+  "superhero": "Cottonmouth",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16317"
+  },
+  "superhero": "Crystal (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16318"
+  },
+  "superhero": "Crystal",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16319"
+  },
+  "superhero": "Cull Obsidian (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631a"
+  },
+  "superhero": "Cyborg (Sonar Suit)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631b"
+  },
+  "superhero": "Cyborg Superman",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631c"
+  },
+  "superhero": "Cyborg",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631d"
+  },
+  "superhero": "Cyclops (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631e"
+  },
+  "superhero": "Cyclops",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1631f"
+  },
+  "superhero": "Daken",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16320"
+  },
+  "superhero": "Dark Archer (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16321"
+  },
+  "superhero": "Darkhawk",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16322"
+  },
+  "superhero": "Darkman",
+  "team": "none",
+  "universe ": "Universal Studios",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16323"
+  },
+  "superhero": "Darkstar",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16324"
+  },
+  "superhero": "Darth Maul",
+  "team": "Other",
+  "universe ": "George Lucas",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16325"
+  },
+  "superhero": "Darth Nox",
+  "team": "none",
+  "universe ": "George Lucas",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16326"
+  },
+  "superhero": "Darwin (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16327"
+  },
+  "superhero": "Dash",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16328"
+  },
+  "superhero": "Dazzler",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16329"
+  },
+  "superhero": "Deadshot (CW)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632a"
+  },
+  "superhero": "Deadshot (New 52)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632b"
+  },
+  "superhero": "Death Of The Endless",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632c"
+  },
+  "superhero": "Death Seed Archangel",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632d"
+  },
+  "superhero": "Deathstroke (Injustice)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632e"
+  },
+  "superhero": "Deathstroke (New 52)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1632f"
+  },
+  "superhero": "Deathstroke",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16330"
+  },
+  "superhero": "Desmond Miles",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16331"
+  },
+  "superhero": "Destruction Of The Endless",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16332"
+  },
+  "superhero": "Detective Chimp",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16333"
+  },
+  "superhero": "Devastator",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16334"
+  },
+  "superhero": "Devilman",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16335"
+  },
+  "superhero": "Doc Green",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16336"
+  },
+  "superhero": "Doc Samson",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16337"
+  },
+  "superhero": "Doctor Mid-Nite",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16338"
+  },
+  "superhero": "Doctor Occult",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16339"
+  },
+  "superhero": "Doctor Octopus",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633a"
+  },
+  "superhero": "Domino (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633b"
+  },
+  "superhero": "Domino",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633c"
+  },
+  "superhero": "Donna Troy",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633d"
+  },
+  "superhero": "Doomsday",
+  "team": "Secret Society of Super-Villains",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633e"
+  },
+  "superhero": "Dormammu",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1633f"
+  },
+  "superhero": "Dove (Titans)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16340"
+  },
+  "superhero": "Dr Manhattan",
+  "team": "Watchmen",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16341"
+  },
+  "superhero": "Dracula",
+  "team": "none",
+  "universe ": "Konami",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16342"
+  },
+  "superhero": "Drax the Destroyer",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16343"
+  },
+  "superhero": "Edward Kenway",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16344"
+  },
+  "superhero": "El Diablo",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16345"
+  },
+  "superhero": "Elastigirl",
+  "team": "Incredible Family",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16346"
+  },
+  "superhero": "Electro (SONY)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16347"
+  },
+  "superhero": "Electro",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16348"
+  },
+  "superhero": "Elektra (Fox)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16349"
+  },
+  "superhero": "Elektra",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634a"
+  },
+  "superhero": "Emma Frost (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634b"
+  },
+  "superhero": "Emma Frost",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634c"
+  },
+  "superhero": "Erik Killmonger",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634d"
+  },
+  "superhero": "Etrigan",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634e"
+  },
+  "superhero": "Evie Frye",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1634f"
+  },
+  "superhero": "Evil Deadpool",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16350"
+  },
+  "superhero": "Evilhawk",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16351"
+  },
+  "superhero": "Exodus",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16352"
+  },
+  "superhero": "Falcon",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16353"
+  },
+  "superhero": "Fandral (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16354"
+  },
+  "superhero": "Faora",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16355"
+  },
+  "superhero": "Felix Faust",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16356"
+  },
+  "superhero": "Firestar",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16357"
+  },
+  "superhero": "Firestorm (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16358"
+  },
+  "superhero": "Firestorm II (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16359"
+  },
+  "superhero": "Firestorm",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635a"
+  },
+  "superhero": "Flash (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635b"
+  },
+  "superhero": "Flash (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635c"
+  },
+  "superhero": "Flash IV",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635d"
+  },
+  "superhero": "Flash",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635e"
+  },
+  "superhero": "Franklin Richards",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1635f"
+  },
+  "superhero": "Gaara",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16360"
+  },
+  "superhero": "Gambit",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16361"
+  },
+  "superhero": "Gamora",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16362"
+  },
+  "superhero": "Gandalf The White",
+  "team": "Fellowship of the Ring",
+  "universe ": "J. R. R. Tolkien",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16363"
+  },
+  "superhero": "Gandalf",
+  "team": "Fellowship of the Ring",
+  "universe ": "J. R. R. Tolkien",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16364"
+  },
+  "superhero": "General Vex",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16365"
+  },
+  "superhero": "General Zod",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16366"
+  },
+  "superhero": "Ghost Rider II (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16367"
+  },
+  "superhero": "Gladiator",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16368"
+  },
+  "superhero": "Golden Ninja",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16369"
+  },
+  "superhero": "Gorilla Grodd (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636a"
+  },
+  "superhero": "GPL",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636b"
+  },
+  "superhero": "Grand Master Skywalker",
+  "team": "none",
+  "universe ": "George Lucas",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636c"
+  },
+  "superhero": "Grant Ward (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636d"
+  },
+  "superhero": "Graviton (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636e"
+  },
+  "superhero": "Gravity",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1636f"
+  },
+  "superhero": "Green Arrow (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16370"
+  },
+  "superhero": "Green Arrow",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16371"
+  },
+  "superhero": "Green Lantern (Injustice)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16372"
+  },
+  "superhero": "Green Lantern (New 52)",
+  "team": "Green Lantern Corps",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16373"
+  },
+  "superhero": "Grifter",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16374"
+  },
+  "superhero": "Grim Reaper",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16375"
+  },
+  "superhero": "Groot",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16376"
+  },
+  "superhero": "Gypsy (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16377"
+  },
+  "superhero": "Harley Quinn (Arkham)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16378"
+  },
+  "superhero": "Harley Quinn (New 52)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16379"
+  },
+  "superhero": "Harley Quinn",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637a"
+  },
+  "superhero": "Harrison Wells (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637b"
+  },
+  "superhero": "Harry Osborn (Raimi Trilogy)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637c"
+  },
+  "superhero": "Harry Potter",
+  "team": "Gryffindor",
+  "universe ": "J. K. Rowling",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637d"
+  },
+  "superhero": "Havok (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637e"
+  },
+  "superhero": "Havok",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1637f"
+  },
+  "superhero": "Hawk (Titans)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16380"
+  },
+  "superhero": "Hawkeye II",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16381"
+  },
+  "superhero": "Hawkgirl (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16382"
+  },
+  "superhero": "Hawkman (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16383"
+  },
+  "superhero": "Heat Wave (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16384"
+  },
+  "superhero": "Heat Wave",
+  "team": "Rogues",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16385"
+  },
+  "superhero": "Heimdall (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16386"
+  },
+  "superhero": "Hellboy (Injustice 2)",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16387"
+  },
+  "superhero": "Hellboy",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16388"
+  },
+  "superhero": "Hellcat",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16389"
+  },
+  "superhero": "Hellfire (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638a"
+  },
+  "superhero": "Highfather",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638b"
+  },
+  "superhero": "Hit-Monkey",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638c"
+  },
+  "superhero": "Hive (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638d"
+  },
+  "superhero": "Hogun (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638e"
+  },
+  "superhero": "Hourman",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1638f"
+  },
+  "superhero": "Howard The Duck",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16390"
+  },
+  "superhero": "Hugo Strange",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16391"
+  },
+  "superhero": "Hulk Earth-5901",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16392"
+  },
+  "superhero": "Hulk",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16393"
+  },
+  "superhero": "Human Torch (FOX)",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16394"
+  },
+  "superhero": "Human Torch II",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16395"
+  },
+  "superhero": "Huntress (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16396"
+  },
+  "superhero": "Huntress (Injustice)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16397"
+  },
+  "superhero": "Hush",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16398"
+  },
+  "superhero": "Husk",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16399"
+  },
+  "superhero": "Hybrid",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639a"
+  },
+  "superhero": "Iceman (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639b"
+  },
+  "superhero": "Iceman",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639c"
+  },
+  "superhero": "Icon",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639d"
+  },
+  "superhero": "Immortal Hulk",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639e"
+  },
+  "superhero": "Imperiex",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1639f"
+  },
+  "superhero": "Incredible Hulk (Universal)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a0"
+  },
+  "superhero": "Ink",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a1"
+  },
+  "superhero": "Invisible Woman (FOX)",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a2"
+  },
+  "superhero": "Iron Fist",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a3"
+  },
+  "superhero": "Iron Monger (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a4"
+  },
+  "superhero": "Itachi Uchiha",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a5"
+  },
+  "superhero": "Jack-Jack",
+  "team": "Incredible Family",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a6"
+  },
+  "superhero": "Jack of Hearts",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a7"
+  },
+  "superhero": "Jacob Frye",
+  "team": "none",
+  "universe ": "Ubisoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a8"
+  },
+  "superhero": "James Bond (Craig)",
+  "team": "none",
+  "universe ": "Ian Fleming",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163a9"
+  },
+  "superhero": "Jane Foster (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163aa"
+  },
+  "superhero": "Jay (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ab"
+  },
+  "superhero": "Jean Grey",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ac"
+  },
+  "superhero": "Jemma Simmons (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ad"
+  },
+  "superhero": "Jesse Quick (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ae"
+  },
+  "superhero": "Jesse Quick",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163af"
+  },
+  "superhero": "Jessica Jones",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b0"
+  },
+  "superhero": "Jigsaw (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b1"
+  },
+  "superhero": "Joe Wilson (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b2"
+  },
+  "superhero": "Johann Krauss",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b3"
+  },
+  "superhero": "John Pilgrim (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b4"
+  },
+  "superhero": "Joker",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b5"
+  },
+  "superhero": "Jonah Hex (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b6"
+  },
+  "superhero": "Jubilee",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b7"
+  },
+  "superhero": "Juggernaut (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b8"
+  },
+  "superhero": "Juggernaut",
+  "team": "Brotherhood of Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163b9"
+  },
+  "superhero": "Justice",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ba"
+  },
+  "superhero": "Justin Hammer",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163bb"
+  },
+  "superhero": "Kaecilius (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163bc"
+  },
+  "superhero": "Kaguya Ōtsutsuki",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163bd"
+  },
+  "superhero": "Kai (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163be"
+  },
+  "superhero": "Kale",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163bf"
+  },
+  "superhero": "Kanto",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c0"
+  },
+  "superhero": "Karnak (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c1"
+  },
+  "superhero": "Katana (DCEU)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c2"
+  },
+  "superhero": "Katana",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c3"
+  },
+  "superhero": "Kefla",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c4"
+  },
+  "superhero": "Kenshiro",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c5"
+  },
+  "superhero": "KGBeast",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c6"
+  },
+  "superhero": "Kid Flash (CW)",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c7"
+  },
+  "superhero": "Kid Flash II",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c8"
+  },
+  "superhero": "Kilgrave (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163c9"
+  },
+  "superhero": "Killer Croc (DCEU)",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ca"
+  },
+  "superhero": "Killer Croc",
+  "team": "Secret Society of Super-Villains",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163cb"
+  },
+  "superhero": "Killer Frost",
+  "team": "Suicide Squad",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163cc"
+  },
+  "superhero": "Killian (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163cd"
+  },
+  "superhero": "Killmonger (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ce"
+  },
+  "superhero": "King Thanos",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163cf"
+  },
+  "superhero": "Kingpin",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d0"
+  },
+  "superhero": "Klaw (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d1"
+  },
+  "superhero": "Klaw",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d2"
+  },
+  "superhero": "Koko (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d3"
+  },
+  "superhero": "Kraven II",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d4"
+  },
+  "superhero": "Kraven the Hunter",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d5"
+  },
+  "superhero": "Krypto",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d6"
+  },
+  "superhero": "Lady Bullseye",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d7"
+  },
+  "superhero": "Lady Deadpool",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d8"
+  },
+  "superhero": "Lady Deathstrike",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163d9"
+  },
+  "superhero": "Lady Shiva",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163da"
+  },
+  "superhero": "Lance Hunter (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163db"
+  },
+  "superhero": "Laufey (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163dc"
+  },
+  "superhero": "Lauren Strucker (Fox)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163dd"
+  },
+  "superhero": "Leo Fitz (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163de"
+  },
+  "superhero": "Lex Luthor (DCEU)",
+  "team": "Secret Society of Super-Villains",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163df"
+  },
+  "superhero": "Lex Luthor (Injustice)",
+  "team": "Secret Society of Super-Villains",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e0"
+  },
+  "superhero": "Lex Luthor",
+  "team": "Secret Society of Super-Villains",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e1"
+  },
+  "superhero": "Lightspeed",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e2"
+  },
+  "superhero": "Livewire",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e3"
+  },
+  "superhero": "Lizard",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e4"
+  },
+  "superhero": "Lloyd (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e5"
+  },
+  "superhero": "Lobo",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e6"
+  },
+  "superhero": "Lockjaw",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e7"
+  },
+  "superhero": "Luke Cage",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e8"
+  },
+  "superhero": "Luke Skywalker",
+  "team": "Other",
+  "universe ": "George Lucas",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163e9"
+  },
+  "superhero": "Luna",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ea"
+  },
+  "superhero": "Madara Uchiha",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163eb"
+  },
+  "superhero": "Maestro Hulk",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ec"
+  },
+  "superhero": "Man-Bat",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ed"
+  },
+  "superhero": "Mandarin",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ee"
+  },
+  "superhero": "Maria Hill (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ef"
+  },
+  "superhero": "Mario",
+  "team": "none",
+  "universe ": "Nintendo",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f0"
+  },
+  "superhero": "Martian Manhunter",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f1"
+  },
+  "superhero": "Master Chief",
+  "team": "none",
+  "universe ": "Microsoft",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f2"
+  },
+  "superhero": "Maximus (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f3"
+  },
+  "superhero": "M'baku (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f4"
+  },
+  "superhero": "Medusa (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f5"
+  },
+  "superhero": "Melinda May (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f6"
+  },
+  "superhero": "Mera (New 52)",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f7"
+  },
+  "superhero": "Mera",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f8"
+  },
+  "superhero": "Metallo",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163f9"
+  },
+  "superhero": "Michael Demiurgos",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163fa"
+  },
+  "superhero": "Might Guy",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163fb"
+  },
+  "superhero": "Mirror Master (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163fc"
+  },
+  "superhero": "Mister Fantastic (FOX)",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163fd"
+  },
+  "superhero": "Mister Fantastic",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163fe"
+  },
+  "superhero": "Mister Freeze",
+  "team": "Rogues",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd163ff"
+  },
+  "superhero": "Mister Miracle",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16400"
+  },
+  "superhero": "Mister Mxyzptlk",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16401"
+  },
+  "superhero": "Mister Sinister",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16402"
+  },
+  "superhero": "Mister Terrific (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16403"
+  },
+  "superhero": "Misty Knight (MCU)",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16404"
+  },
+  "superhero": "Misty Knight",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16405"
+  },
+  "superhero": "Mockingbird (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16406"
+  },
+  "superhero": "Mockingbird",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16407"
+  },
+  "superhero": "Mongul The Elder",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16408"
+  },
+  "superhero": "Moon Knight",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16409"
+  },
+  "superhero": "Mr Incredible",
+  "team": "Other",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640a"
+  },
+  "superhero": "Mysterio",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640b"
+  },
+  "superhero": "Mystique (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640c"
+  },
+  "superhero": "Mystique",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640d"
+  },
+  "superhero": "Nagato Uzumaki",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640e"
+  },
+  "superhero": "Namor",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1640f"
+  },
+  "superhero": "Naruto Uzumaki",
+  "team": "Other",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16410"
+  },
+  "superhero": "Nebula (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16411"
+  },
+  "superhero": "Negasonic Teenage Warhead (FOX",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16412"
+  },
+  "superhero": "Negasonic Teenage Warhead",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16413"
+  },
+  "superhero": "Neji",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16414"
+  },
+  "superhero": "Nekron",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16415"
+  },
+  "superhero": "Nick Fury (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16416"
+  },
+  "superhero": "Nick Fury",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16417"
+  },
+  "superhero": "Nightcrawler (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16418"
+  },
+  "superhero": "Nightshade",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16419"
+  },
+  "superhero": "Nightwing (Arkham)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641a"
+  },
+  "superhero": "Nite Owl II",
+  "team": "Watchmen",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641b"
+  },
+  "superhero": "Nite Owl",
+  "team": "Watchmen",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641c"
+  },
+  "superhero": "Nobu (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641d"
+  },
+  "superhero": "Nomad (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641e"
+  },
+  "superhero": "Nya (The LEGO Ninjago Movie)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1641f"
+  },
+  "superhero": "Obito Uchiha",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16420"
+  },
+  "superhero": "Ocean Master",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16421"
+  },
+  "superhero": "Old Man Logan (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16422"
+  },
+  "superhero": "Omega",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16423"
+  },
+  "superhero": "One Punch Man",
+  "team": "Other",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16424"
+  },
+  "superhero": "Onslaught",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16425"
+  },
+  "superhero": "Owlman",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16426"
+  },
+  "superhero": "Pandora",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16427"
+  },
+  "superhero": "Peggy Carter (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16428"
+  },
+  "superhero": "Penguin",
+  "team": "The Society",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16429"
+  },
+  "superhero": "Pied Piper (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642a"
+  },
+  "superhero": "Plantman",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642b"
+  },
+  "superhero": "Plastic Man",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642c"
+  },
+  "superhero": "Poison Ivy (Arkham)",
+  "team": "The Society",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642d"
+  },
+  "superhero": "Poison Ivy",
+  "team": "The Society",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642e"
+  },
+  "superhero": "Polaris (Fox)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1642f"
+  },
+  "superhero": "Polaris",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16430"
+  },
+  "superhero": "Power Girl (New 52)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16431"
+  },
+  "superhero": "Power Girl",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16432"
+  },
+  "superhero": "Predator",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16433"
+  },
+  "superhero": "Professor Dumbledore",
+  "team": "Gryffindor",
+  "universe ": "J. K. Rowling",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16434"
+  },
+  "superhero": "Professor X (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16435"
+  },
+  "superhero": "Professor Zoom",
+  "team": "The Society",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16436"
+  },
+  "superhero": "Prometheus (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16437"
+  },
+  "superhero": "Proxima Midnight (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16438"
+  },
+  "superhero": "Psylocke",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16439"
+  },
+  "superhero": "Punisher",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643a"
+  },
+  "superhero": "Purple Man",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643b"
+  },
+  "superhero": "Pyro (FOX)",
+  "team": "Brotherhood of Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643c"
+  },
+  "superhero": "Question",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643d"
+  },
+  "superhero": "Quicksilver",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643e"
+  },
+  "superhero": "Ragman (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1643f"
+  },
+  "superhero": "Ra's Al Ghul (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16440"
+  },
+  "superhero": "Ra's Al Ghul",
+  "team": "Other",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16441"
+  },
+  "superhero": "Raven (Titans)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16442"
+  },
+  "superhero": "Ray",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16443"
+  },
+  "superhero": "Red Arrow",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16444"
+  },
+  "superhero": "Red Hood (New 52)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16445"
+  },
+  "superhero": "Red Hulk (Ghost Rider) (Venom)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16446"
+  },
+  "superhero": "Red Hulk",
+  "team": "Other",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16447"
+  },
+  "superhero": "Red Skull (MCU)",
+  "team": "HYDRA",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16448"
+  },
+  "superhero": "Rey",
+  "team": "Other",
+  "universe ": "George Lucas",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16449"
+  },
+  "superhero": "Rhino",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644a"
+  },
+  "superhero": "Rick Sanchez",
+  "team": "Other",
+  "universe ": "Cartoon Network",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644b"
+  },
+  "superhero": "Riot (SONY)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644c"
+  },
+  "superhero": "Robin II",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644d"
+  },
+  "superhero": "Robin (Titans)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644e"
+  },
+  "superhero": "Robin V",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1644f"
+  },
+  "superhero": "Robin VI",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16450"
+  },
+  "superhero": "Robin",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16451"
+  },
+  "superhero": "Rock Lee",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16452"
+  },
+  "superhero": "Rocket Raccoon (MCU)",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16453"
+  },
+  "superhero": "Rocket Raccoon",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16454"
+  },
+  "superhero": "Rogue (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16455"
+  },
+  "superhero": "Ronin (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16456"
+  },
+  "superhero": "Ronin (Ninjago)",
+  "team": "none",
+  "universe ": "Lego",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16457"
+  },
+  "superhero": "Rorschach",
+  "team": "Watchmen",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16458"
+  },
+  "superhero": "Sabretooth (FOX)",
+  "team": "Brotherhood of Evil Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16459"
+  },
+  "superhero": "Sabretooth",
+  "team": "Brotherhood of Evil Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645a"
+  },
+  "superhero": "Sakura Haruno",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645b"
+  },
+  "superhero": "Sandman (SONY)",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645c"
+  },
+  "superhero": "Sandman",
+  "team": "Sinister Six",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645d"
+  },
+  "superhero": "Sasuke Uchiha",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645e"
+  },
+  "superhero": "Saturn Girl (CW)",
+  "team": "Legion of Superheroes",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1645f"
+  },
+  "superhero": "Scarlet Spider II",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16460"
+  },
+  "superhero": "Sebastian Shaw (FOX)",
+  "team": "Brotherhood of Evil Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16461"
+  },
+  "superhero": "Selene",
+  "team": "none",
+  "universe ": "IDW Publishing",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16462"
+  },
+  "superhero": "Sentry",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16463"
+  },
+  "superhero": "Shades (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16464"
+  },
+  "superhero": "Shadowcat (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16465"
+  },
+  "superhero": "Shadowcat",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16466"
+  },
+  "superhero": "Shang-Chi",
+  "team": "other",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16467"
+  },
+  "superhero": "Shao Kahn",
+  "team": "none",
+  "universe ": "Mortal Kombat",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16468"
+  },
+  "superhero": "Sharon Carter",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16469"
+  },
+  "superhero": "Shazam",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646a"
+  },
+  "superhero": "She-Hulk",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646b"
+  },
+  "superhero": "Sherlock Holmes",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646c"
+  },
+  "superhero": "Shikamaru",
+  "team": "none",
+  "universe ": "Shueisha",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646d"
+  },
+  "superhero": "Shocker",
+  "team": "other",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646e"
+  },
+  "superhero": "Shuri (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1646f"
+  },
+  "superhero": "Sif (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Other"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16470"
+  },
+  "superhero": "Sif",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Other"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16471"
+  },
+  "superhero": "Silk",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16472"
+  },
+  "superhero": "Silver Banshee",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16473"
+  },
+  "superhero": "Silver Samurai (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16474"
+  },
+  "superhero": "Silver Surfer",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16475"
+  },
+  "superhero": "Solomon Grundy",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16476"
+  },
+  "superhero": "Solomon Kane",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16477"
+  },
+  "superhero": "Space Ghost",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16478"
+  },
+  "superhero": "Spartan",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16479"
+  },
+  "superhero": "Spawn",
+  "team": "none",
+  "universe ": "Image Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647a"
+  },
+  "superhero": "Speedy",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647b"
+  },
+  "superhero": "Spider-Man (Black) (Raimi)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647c"
+  },
+  "superhero": "Spider-Man Noir",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647d"
+  },
+  "superhero": "Spider-Woman",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647e"
+  },
+  "superhero": "Spyke",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1647f"
+  },
+  "superhero": "Star-Lord",
+  "team": "Guardians of the Galaxy",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16480"
+  },
+  "superhero": "Star Sapphire",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16481"
+  },
+  "superhero": "Starfire (Titans)",
+  "team": "The Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16482"
+  },
+  "superhero": "Starfire",
+  "team": "The Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16483"
+  },
+  "superhero": "Stargirl",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16484"
+  },
+  "superhero": "Starling",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16485"
+  },
+  "superhero": "Steel Serpent (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16486"
+  },
+  "superhero": "Steel",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16487"
+  },
+  "superhero": "Stick (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16488"
+  },
+  "superhero": "Storm (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16489"
+  },
+  "superhero": "Strange Visitor Superman",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648a"
+  },
+  "superhero": "Sunspot",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648b"
+  },
+  "superhero": "Superboy-Prime",
+  "team": "Teen Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648c"
+  },
+  "superhero": "Supergirl (Injustice)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648d"
+  },
+  "superhero": "Superman (2006)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648e"
+  },
+  "superhero": "Superman (Smallville)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1648f"
+  },
+  "superhero": "Swamp Thing",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16490"
+  },
+  "superhero": "Swarm",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16491"
+  },
+  "superhero": "T-X",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16492"
+  },
+  "superhero": "Taskmaster",
+  "team": "sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16493"
+  },
+  "superhero": "Thanos",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16494"
+  },
+  "superhero": "The Batman Of Zur-En-Arrh",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16495"
+  },
+  "superhero": "The Boy",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16496"
+  },
+  "superhero": "The Comedian",
+  "team": "Watchmen",
+  "universe ": "DC Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16497"
+  },
+  "superhero": "The Crow",
+  "team": "none",
+  "universe ": "Image Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16498"
+  },
+  "superhero": "The Executioner (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd16499"
+  },
+  "superhero": "The Flash (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649a"
+  },
+  "superhero": "The Keeper",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649b"
+  },
+  "superhero": "The Ray (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649c"
+  },
+  "superhero": "The Rival (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649d"
+  },
+  "superhero": "The Scarecrow (Gotham)",
+  "team": "Legion of Doom",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649e"
+  },
+  "superhero": "The Shocker (MCU)",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd1649f"
+  },
+  "superhero": "The Thing (FOX)",
+  "team": "Fantastic Four",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a0"
+  },
+  "superhero": "The Thinker (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a1"
+  },
+  "superhero": "The Wasp",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a2"
+  },
+  "superhero": "Thor Girl",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a3"
+  },
+  "superhero": "Thor (Odin Force)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a4"
+  },
+  "superhero": "Titania",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a5"
+  },
+  "superhero": "Toad (FOX)",
+  "team": "Brotherhood of Evil Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a6"
+  },
+  "superhero": "Toad",
+  "team": "Brotherhood of Evil Mutants",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a7"
+  },
+  "superhero": "Toxin",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a8"
+  },
+  "superhero": "Toymaster",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164a9"
+  },
+  "superhero": "Triton",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164aa"
+  },
+  "superhero": "Two-Face",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ab"
+  },
+  "superhero": "Typhoid Mary (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Neutral"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ac"
+  },
+  "superhero": "Ultimo",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ad"
+  },
+  "superhero": "Valkyrie (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ae"
+  },
+  "superhero": "Valkyrie",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164af"
+  },
+  "superhero": "Venom III",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b0"
+  },
+  "superhero": "Venom",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b1"
+  },
+  "superhero": "Vibe (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b2"
+  },
+  "superhero": "Vibe",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b3"
+  },
+  "superhero": "Vigilante (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b4"
+  },
+  "superhero": "Vili",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b5"
+  },
+  "superhero": "Violet Parr",
+  "team": "none",
+  "universe ": "Dark Horse Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b6"
+  },
+  "superhero": "Vision",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b7"
+  },
+  "superhero": "Vixen (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b8"
+  },
+  "superhero": "Vixen II (CW)",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164b9"
+  },
+  "superhero": "Vixen",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ba"
+  },
+  "superhero": "Volstagg (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164bb"
+  },
+  "superhero": "Vulture (MCU)",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164bc"
+  },
+  "superhero": "Vulture",
+  "team": "Sinister Six",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164bd"
+  },
+  "superhero": "Walrus",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164be"
+  },
+  "superhero": "War Machine",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164bf"
+  },
+  "superhero": "Warpath",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c0"
+  },
+  "superhero": "Wesker",
+  "team": "none",
+  "universe ": "Capcom",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c1"
+  },
+  "superhero": "White Canary (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c2"
+  },
+  "superhero": "White Wolf (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c3"
+  },
+  "superhero": "Wild Dog (CW)",
+  "team": "none",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c4"
+  },
+  "superhero": "William Stryker (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c5"
+  },
+  "superhero": "Winter Soldier",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c6"
+  },
+  "superhero": "Wonder Girl (Titans)",
+  "team": "The Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c7"
+  },
+  "superhero": "Wonder Girl",
+  "team": "The Titans",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c8"
+  },
+  "superhero": "Wong (MCU)",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164c9"
+  },
+  "superhero": "World Breaker Hulk",
+  "team": "Avengers",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ca"
+  },
+  "superhero": "X-23 (FOX)",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164cb"
+  },
+  "superhero": "X-23",
+  "team": "X-Men",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164cc"
+  },
+  "superhero": "YellowJacket (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164cd"
+  },
+  "superhero": "Yellowjacket",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Bad"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164ce"
+  },
+  "superhero": "Yo-yo (MCU)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164cf"
+  },
+  "superhero": "Yoda",
+  "team": "none",
+  "universe ": "George Lucas",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164d0"
+  },
+  "superhero": "Yukio (FOX)",
+  "team": "none",
+  "universe ": "Marvel Comics",
+  "alignment": "Good"
+},{
+  "_id": {
+    "$oid": "60c2ea829d51d937ccd164d1"
+  },
+  "superhero": "Zatanna",
+  "team": "Justice League",
+  "universe ": "DC Comics",
+  "alignment": "Good"
+}]
