@@ -1,0 +1,9691 @@
+[{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1670c"
+  },
+  "id": 1,
+  "Universe": "Marvel Comics",
+  "Superhero": "A-Bomb",
+  "identity": "Richard Milhouse Jones",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 80,
+  "durability": 100,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1670d"
+  },
+  "id": 2,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Abe Sapien",
+  "identity": "Abraham Sapien",
+  "gender": "Male",
+  "race": "Icthyo Sapien",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 30,
+  "speed": 35,
+  "durability": 65,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1670e"
+  },
+  "id": 3,
+  "Universe": "Marvel Comics",
+  "Superhero": "Abomination",
+  "identity": "Emil Blonsky",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 80,
+  "durability": 90,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1670f"
+  },
+  "id": 4,
+  "Universe": "DC Comics",
+  "Superhero": "Abra Kadabra (CW)",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 30,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16710"
+  },
+  "id": 5,
+  "Universe": "Marvel Comics",
+  "Superhero": "Abraxas",
+  "identity": "Abraxas",
+  "gender": "Male",
+  "race": "Cosmic Entity",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16711"
+  },
+  "id": 6,
+  "Universe": "Marvel Comics",
+  "Superhero": "Absorbing Man (MCU)",
+  "identity": "Carl Creel",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 30,
+  "durability": 40,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16712"
+  },
+  "id": 7,
+  "Universe": "Marvel Comics",
+  "Superhero": "Absorbing Man",
+  "identity": "Carl Creel",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 80,
+  "speed": 25,
+  "durability": 100,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16713"
+  },
+  "id": 8,
+  "Universe": "DC Comics",
+  "Superhero": "Adam Strange",
+  "identity": "Adam Strange",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 35,
+  "durability": 40,
+  "power": 55,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16714"
+  },
+  "id": 9,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent 13 (MCU)",
+  "identity": "Sharon Carter",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 20,
+  "speed": 70,
+  "durability": 50,
+  "power": 45,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16715"
+  },
+  "id": 10,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent Bob",
+  "identity": "Bob",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 60,
+  "strength": 10,
+  "speed": 15,
+  "durability": 5,
+  "power": 5,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16716"
+  },
+  "id": 11,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent Carter",
+  "identity": "Carter",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 15,
+  "durability": 20,
+  "power": 25,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16717"
+  },
+  "id": 12,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent Coulson (Destroyer Gun)",
+  "identity": "Coulson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 10,
+  "durability": 10,
+  "power": 60,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16718"
+  },
+  "id": 13,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent Coulson (MCU)",
+  "identity": "Phillip J. Coulson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 40,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16719"
+  },
+  "id": 14,
+  "Universe": "Marvel Comics",
+  "Superhero": "Agent May (MCU)",
+  "identity": "Melinda May",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 25,
+  "power": 30,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671a"
+  },
+  "id": 15,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ajax",
+  "identity": "Francis",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 50,
+  "speed": 35,
+  "durability": 80,
+  "power": 35,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671b"
+  },
+  "id": 16,
+  "Universe": "Lego",
+  "Superhero": "Akita",
+  "identity": "Akita",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 45,
+  "durability": 15,
+  "power": 70,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671c"
+  },
+  "id": 17,
+  "Universe": "Wildstorm",
+  "Superhero": "Alex Mercer",
+  "identity": "Alexander J. Mercer",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 80,
+  "speed": 40,
+  "durability": 90,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671d"
+  },
+  "id": 18,
+  "Universe": "DC Comics",
+  "Superhero": "Alfred (DCEU)",
+  "identity": "Alfred Pennyworth",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 10,
+  "durability": 10,
+  "power": 15,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671e"
+  },
+  "id": 19,
+  "Universe": "DC Comics",
+  "Superhero": "Alfred Pennyworth",
+  "identity": "Alfred Thaddeus Crane Pennyworth",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 15,
+  "durability": 10,
+  "power": 5,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1671f"
+  },
+  "id": 20,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Alien",
+  "identity": "Xenomorph",
+  "gender": "Male",
+  "race": "Xenomorph XX121",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 40,
+  "durability": 90,
+  "power": 55,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16720"
+  },
+  "id": 21,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Alucard",
+  "identity": "Dracula",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 70,
+  "speed": 100,
+  "durability": 85,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16721"
+  },
+  "id": 22,
+  "Universe": "Marvel Comics",
+  "Superhero": "Amadeus Cho",
+  "identity": "Amadeus Cho",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 20,
+  "power": 20,
+  "combat": 35
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16722"
+  },
+  "id": 23,
+  "Universe": "Marvel Comics",
+  "Superhero": "Angel Dust",
+  "identity": "Christina",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 55,
+  "speed": 25,
+  "durability": 40,
+  "power": 15,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16723"
+  },
+  "id": 24,
+  "Universe": "Marvel Comics",
+  "Superhero": "Angel Salvadore (FOX)",
+  "identity": "Angel Salvadore",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 65,
+  "strength": 10,
+  "speed": 60,
+  "durability": 20,
+  "power": 60,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16724"
+  },
+  "id": 25,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Angel",
+  "identity": "Liam",
+  "gender": "Male",
+  "race": "Vampire",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 60,
+  "durability": 90,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16725"
+  },
+  "id": 26,
+  "Universe": "DC Comics",
+  "Superhero": "Animal Man",
+  "identity": "Bernhard Baker",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 50,
+  "speed": 45,
+  "durability": 85,
+  "power": 75,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16726"
+  },
+  "id": 27,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ant-Man II",
+  "identity": "Scott Lang",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 15,
+  "durability": 40,
+  "power": 55,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16727"
+  },
+  "id": 28,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ant-Man (MCU)",
+  "identity": "Hank Pym",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 35,
+  "speed": 50,
+  "durability": 60,
+  "power": 65,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16728"
+  },
+  "id": 29,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ant-Man",
+  "identity": "Hank Pym",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 25,
+  "durability": 30,
+  "power": 30,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16729"
+  },
+  "id": 30,
+  "Universe": "DC Comics",
+  "Superhero": "Anti-Monitor",
+  "identity": "Mobius",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672a"
+  },
+  "id": 31,
+  "Universe": "DC Comics",
+  "Superhero": "Aqualad",
+  "identity": "Garth",
+  "gender": "Male",
+  "race": "Atlantean",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 45,
+  "speed": 40,
+  "durability": 75,
+  "power": 90,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672b"
+  },
+  "id": 32,
+  "Universe": "DC Comics",
+  "Superhero": "Aquaman (Injustice)",
+  "identity": "Arthur Curry",
+  "gender": "Male",
+  "race": "Atlantean",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 75,
+  "speed": 75,
+  "durability": 80,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672c"
+  },
+  "id": 33,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ardina",
+  "identity": "Ardina",
+  "gender": "Female",
+  "race": "Alien",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 100,
+  "durability": 80,
+  "power": 100,
+  "combat": 25
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672d"
+  },
+  "id": 34,
+  "Universe": "Marvel Comics",
+  "Superhero": "Arnim Zola (MCU)",
+  "identity": "Arnim Zola",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 5,
+  "speed": 10,
+  "durability": 15,
+  "power": 10,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672e"
+  },
+  "id": 35,
+  "Universe": "Ubisoft",
+  "Superhero": "Arno Victor Dorian",
+  "identity": "Arno Dorian",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 40,
+  "durability": 45,
+  "power": 90,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1672f"
+  },
+  "id": 36,
+  "Universe": "Lego",
+  "Superhero": "Ash",
+  "identity": "Ash",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 25,
+  "speed": 60,
+  "durability": 80,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16730"
+  },
+  "id": 37,
+  "Universe": "DC Comics",
+  "Superhero": "Atom (CW)",
+  "identity": "Ray Palmer",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 35,
+  "speed": 70,
+  "durability": 75,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16731"
+  },
+  "id": 38,
+  "Universe": "DC Comics",
+  "Superhero": "Atom II",
+  "identity": "Ray Palmer",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 35,
+  "durability": 45,
+  "power": 40,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16732"
+  },
+  "id": 39,
+  "Universe": "DC Comics",
+  "Superhero": "Atom Smasher (CW)",
+  "identity": "Al Rothstein",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 60,
+  "strength": 75,
+  "speed": 65,
+  "durability": 85,
+  "power": 80,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16733"
+  },
+  "id": 40,
+  "Universe": "DC Comics",
+  "Superhero": "Atomica",
+  "identity": "Rhonda Pineda",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 30,
+  "durability": 20,
+  "power": 40,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16734"
+  },
+  "id": 41,
+  "Universe": "Marvel Comics",
+  "Superhero": "Aurora",
+  "identity": "Jeanne-Marie Beaubier",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 95,
+  "durability": 60,
+  "power": 85,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16735"
+  },
+  "id": 42,
+  "Universe": "DC Comics",
+  "Superhero": "Azrael (Gotham)",
+  "identity": "Theo Galavan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 40,
+  "speed": 55,
+  "durability": 75,
+  "power": 60,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16736"
+  },
+  "id": 43,
+  "Universe": "DC Comics",
+  "Superhero": "Aztar",
+  "identity": "Aztar",
+  "gender": "Male",
+  "race": "Cosmic Entity",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16737"
+  },
+  "id": 44,
+  "Universe": "DC Comics",
+  "Superhero": "Bane (Dark Knight)",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 30,
+  "speed": 25,
+  "durability": 60,
+  "power": 65,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16738"
+  },
+  "id": 45,
+  "Universe": "Marvel Comics",
+  "Superhero": "Banshee",
+  "identity": "Sean Cassidy",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 60,
+  "durability": 40,
+  "power": 65,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16739"
+  },
+  "id": 46,
+  "Universe": "Marvel Comics",
+  "Superhero": "Baron Mordo (MCU)",
+  "identity": "Karl Mordo",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 65,
+  "durability": 60,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673a"
+  },
+  "id": 47,
+  "Universe": "Marvel Comics",
+  "Superhero": "Baron Zemo (MCU)",
+  "identity": "Helmut J. Zemo",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 50,
+  "durability": 50,
+  "power": 30,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673b"
+  },
+  "id": 48,
+  "Universe": "Marvel Comics",
+  "Superhero": "Baron Zemo",
+  "identity": "Helmut Zemo",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 50,
+  "speed": 20,
+  "durability": 65,
+  "power": 80,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673c"
+  },
+  "id": 49,
+  "Universe": "DC Comics",
+  "Superhero": "Batgirl III",
+  "identity": "Helena Rosa Bertinelli",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 20,
+  "speed": 50,
+  "durability": 45,
+  "power": 40,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673d"
+  },
+  "id": 50,
+  "Universe": "DC Comics",
+  "Superhero": "Batgirl (Injustice)",
+  "identity": "Barbara Gordon",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 45,
+  "durability": 50,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673e"
+  },
+  "id": 51,
+  "Universe": "DC Comics",
+  "Superhero": "Batgirl IV",
+  "identity": "Cassandra Cain",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 25,
+  "durability": 55,
+  "power": 45,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1673f"
+  },
+  "id": 52,
+  "Universe": "DC Comics",
+  "Superhero": "Batman (Arkham)",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 55,
+  "durability": 100,
+  "power": 95,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16740"
+  },
+  "id": 53,
+  "Universe": "DC Comics",
+  "Superhero": "Batman (Burtonverse)",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 25,
+  "durability": 40,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16741"
+  },
+  "id": 54,
+  "Universe": "DC Comics",
+  "Superhero": "Batman (GAM)",
+  "identity": "Kirk Langstrom",
+  "gender": "Male",
+  "race": "Vampire",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 60,
+  "durability": 75,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16742"
+  },
+  "id": 55,
+  "Universe": "DC Comics",
+  "Superhero": "Batman II",
+  "identity": "Dick Grayson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 35,
+  "durability": 30,
+  "power": 35,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16743"
+  },
+  "id": 56,
+  "Universe": "DC Comics",
+  "Superhero": "Batman (Injustice)",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 25,
+  "speed": 45,
+  "durability": 55,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16744"
+  },
+  "id": 57,
+  "Universe": "Lego",
+  "Superhero": "Batman (LEGO)",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 20,
+  "speed": 25,
+  "durability": 40,
+  "power": 60,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16745"
+  },
+  "id": 58,
+  "Universe": "Marvel Comics",
+  "Superhero": "Batroc The Leaper (MCU)",
+  "identity": "Georges Batroc",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 45,
+  "durability": 40,
+  "power": 35,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16746"
+  },
+  "id": 59,
+  "Universe": "DC Comics",
+  "Superhero": "Battle-Suit Batman (DCEU)",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 80,
+  "speed": 50,
+  "durability": 75,
+  "power": 75,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16747"
+  },
+  "id": 60,
+  "Universe": "DC Comics",
+  "Superhero": "Batwoman V",
+  "identity": "Katherine Rebecca Kane",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 30,
+  "durability": 25,
+  "power": 25,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16748"
+  },
+  "id": 61,
+  "Universe": "DC Comics",
+  "Superhero": "Batwoman",
+  "identity": "Helena Wayne",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 30,
+  "durability": 30,
+  "power": 40,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16749"
+  },
+  "id": 62,
+  "Universe": "DC Comics",
+  "Superhero": "Beast Boy (Titans)",
+  "identity": "Garfield Logan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 60,
+  "durability": 45,
+  "power": 65,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674a"
+  },
+  "id": 63,
+  "Universe": "DC Comics",
+  "Superhero": "Beast Boy",
+  "identity": "Garfield Mark Logan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 50,
+  "durability": 70,
+  "power": 80,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674b"
+  },
+  "id": 64,
+  "Universe": "Marvel Comics",
+  "Superhero": "Beetle",
+  "identity": "Abner Jenkins",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 30,
+  "speed": 50,
+  "durability": 50,
+  "power": 55,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674c"
+  },
+  "id": 65,
+  "Universe": "Marvel Comics",
+  "Superhero": "Beta Ray Bill",
+  "identity": "Beta Ray Bill",
+  "gender": "Male",
+  "race": "Leprechaun",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 35,
+  "durability": 95,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674d"
+  },
+  "id": 66,
+  "Universe": "DC Comics",
+  "Superhero": "Big Barda",
+  "identity": "Barda Free",
+  "gender": "Female",
+  "race": "New God",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 80,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674e"
+  },
+  "id": 67,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bird-Man",
+  "identity": "Henry Hawk",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 0,
+  "strength": 0,
+  "speed": 0,
+  "durability": 0,
+  "power": 5,
+  "combat": 0
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1674f"
+  },
+  "id": 68,
+  "Universe": "DC Comics",
+  "Superhero": "Bird",
+  "identity": "Birdy Colossimo",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 15,
+  "durability": 10,
+  "power": 15,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16750"
+  },
+  "id": 69,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bishop (Fox)",
+  "identity": "Lucas Bishop",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 30,
+  "durability": 70,
+  "power": 80,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16751"
+  },
+  "id": 70,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bishop",
+  "identity": "Lucas Bishop",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 25,
+  "durability": 75,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16752"
+  },
+  "id": 71,
+  "Universe": "DC Comics",
+  "Superhero": "Bizarro",
+  "identity": "Bizarro",
+  "gender": "Male",
+  "race": "Bizarro",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 95,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16753"
+  },
+  "id": 72,
+  "Universe": "Marvel Comics",
+  "Superhero": "Black Bolt (MCU)",
+  "identity": "Blackagar Boltagon",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 30,
+  "durability": 50,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16754"
+  },
+  "id": 73,
+  "Universe": "Marvel Comics",
+  "Superhero": "Black Bolt",
+  "identity": "Blackagar Boltagon",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 65,
+  "speed": 100,
+  "durability": 85,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16755"
+  },
+  "id": 74,
+  "Universe": "DC Comics",
+  "Superhero": "Black Canary (CW)",
+  "identity": "Laurel Lance",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 85,
+  "durability": 35,
+  "power": 65,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16756"
+  },
+  "id": 75,
+  "Universe": "DC Comics",
+  "Superhero": "Black Canary II (CW)",
+  "identity": "Dinah Drake",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 50,
+  "durability": 45,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16757"
+  },
+  "id": 76,
+  "Universe": "DC Comics",
+  "Superhero": "Black Canary (Injustice)",
+  "identity": "Dinah Laurel Lance",
+  "gender": "Female",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 20,
+  "speed": 50,
+  "durability": 45,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16758"
+  },
+  "id": 77,
+  "Universe": "DC Comics",
+  "Superhero": "Black Canary",
+  "identity": "Laurel Lance",
+  "gender": "Female",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 35,
+  "durability": 20,
+  "power": 50,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16759"
+  },
+  "id": 78,
+  "Universe": "Marvel Comics",
+  "Superhero": "Black Cat (PS4)",
+  "identity": "Felicia Hardy",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 65,
+  "durability": 30,
+  "power": 45,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675a"
+  },
+  "id": 79,
+  "Universe": "Marvel Comics",
+  "Superhero": "Black Cat",
+  "identity": "Felicia Hardy",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 35,
+  "durability": 10,
+  "power": 25,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675b"
+  },
+  "id": 80,
+  "Universe": "Marvel Comics",
+  "Superhero": "Black Knight III",
+  "identity": "Dane Whitman",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 10,
+  "durability": 70,
+  "power": 45,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675c"
+  },
+  "id": 81,
+  "Universe": "DC Comics",
+  "Superhero": "Black Manta (DCEU)",
+  "identity": "David Kane",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 45,
+  "speed": 55,
+  "durability": 55,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675d"
+  },
+  "id": 82,
+  "Universe": "Marvel Comics",
+  "Superhero": "Blade",
+  "identity": "Eric Brooks",
+  "gender": "Male",
+  "race": "Vampire",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 40,
+  "durability": 50,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675e"
+  },
+  "id": 83,
+  "Universe": "Marvel Comics",
+  "Superhero": "Blink",
+  "identity": "Clarice Ferguson",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 20,
+  "durability": 30,
+  "power": 75,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1675f"
+  },
+  "id": 84,
+  "Universe": "Marvel Comics",
+  "Superhero": "Blob (FOX)",
+  "identity": "Fred Dukes",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 30,
+  "durability": 85,
+  "power": 45,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16760"
+  },
+  "id": 85,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bloodaxe",
+  "identity": "Jackie Lukus",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 35,
+  "durability": 80,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16761"
+  },
+  "id": 86,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bloodhawk",
+  "identity": "Lemuel Krug",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 50,
+  "durability": 80,
+  "power": 80,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16762"
+  },
+  "id": 87,
+  "Universe": "DC Comics",
+  "Superhero": "Blue Beetle II",
+  "identity": "Theodore Kord",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 55,
+  "speed": 50,
+  "durability": 60,
+  "power": 70,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16763"
+  },
+  "id": 88,
+  "Universe": "DC Comics",
+  "Superhero": "Blue Beetle (Injustice)",
+  "identity": "Jaime Reyes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 35,
+  "speed": 90,
+  "durability": 85,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16764"
+  },
+  "id": 89,
+  "Universe": "Marvel Comics",
+  "Superhero": "Boom-Boom",
+  "identity": "Tabitha Smith",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 10,
+  "durability": 40,
+  "power": 55,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16765"
+  },
+  "id": 90,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bor Burison",
+  "identity": "Bor Burison",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16766"
+  },
+  "id": 91,
+  "Universe": "DC Comics",
+  "Superhero": "Brainiac",
+  "identity": "Vril Dox",
+  "gender": "Male",
+  "race": "Android",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 95,
+  "speed": 65,
+  "durability": 90,
+  "power": 65,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16767"
+  },
+  "id": 92,
+  "Universe": "Marvel Comics",
+  "Superhero": "Brother Voodoo",
+  "identity": "Jericho Drumm",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 55,
+  "durability": 60,
+  "power": 90,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16768"
+  },
+  "id": 93,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Buffy",
+  "identity": "Buffy Anne Summers",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 40,
+  "durability": 70,
+  "power": 50,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16769"
+  },
+  "id": 94,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bullseye",
+  "identity": "Lester",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 25,
+  "durability": 70,
+  "power": 20,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676a"
+  },
+  "id": 95,
+  "Universe": "Hasbro",
+  "Superhero": "Bumblebee",
+  "identity": "Bumblebee",
+  "gender": "Male",
+  "race": "Robot",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 55,
+  "speed": 60,
+  "durability": 75,
+  "power": 75,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676b"
+  },
+  "id": 96,
+  "Universe": "Marvel Comics",
+  "Superhero": "Buri",
+  "identity": "Buri",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 90,
+  "durability": 90,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676c"
+  },
+  "id": 97,
+  "Universe": "Marvel Comics",
+  "Superhero": "Bushmaster (MCU)",
+  "identity": "John Mclver",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 55,
+  "speed": 60,
+  "durability": 70,
+  "power": 65,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676d"
+  },
+  "id": 98,
+  "Universe": "Clive Barker",
+  "Superhero": "Butterball",
+  "identity": "Emery Schaub",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 25,
+  "durability": 100,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676e"
+  },
+  "id": 99,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cable (FOX)",
+  "identity": "Nathan Summers",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 65,
+  "strength": 55,
+  "speed": 80,
+  "durability": 60,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1676f"
+  },
+  "id": 100,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cable",
+  "identity": "Nathan Summers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 50,
+  "speed": 25,
+  "durability": 55,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16770"
+  },
+  "id": 101,
+  "Universe": "DC Comics",
+  "Superhero": "Captain Boomerang (CW)",
+  "identity": "Digger Harkness",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 35,
+  "durability": 35,
+  "power": 45,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16771"
+  },
+  "id": 102,
+  "Universe": "DC Comics",
+  "Superhero": "Captain Boomerang (DCEU)",
+  "identity": "Digger Harkness",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 25,
+  "durability": 40,
+  "power": 40,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16772"
+  },
+  "id": 103,
+  "Universe": "DC Comics",
+  "Superhero": "Captain Boomerang",
+  "identity": "George Harkness",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 60,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 40,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16773"
+  },
+  "id": 104,
+  "Universe": "Marvel Comics",
+  "Superhero": "Captain Britain",
+  "identity": "Brian Braddock",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 75,
+  "speed": 50,
+  "durability": 60,
+  "power": 30,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16774"
+  },
+  "id": 105,
+  "Universe": "South Park",
+  "Superhero": "Captain Hindsight",
+  "identity": "Jack Brolin",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 65,
+  "strength": 10,
+  "speed": 85,
+  "durability": 30,
+  "power": 10,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16775"
+  },
+  "id": 106,
+  "Universe": "Marvel Comics",
+  "Superhero": "Captain Mar-vell",
+  "identity": "Genis-Vell",
+  "gender": "Male",
+  "race": "Kree",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 95,
+  "speed": 90,
+  "durability": 90,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16776"
+  },
+  "id": 107,
+  "Universe": "DC Comics",
+  "Superhero": "Captain Metropolis",
+  "identity": "Nelson Gardner",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 25,
+  "durability": 40,
+  "power": 45,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16777"
+  },
+  "id": 108,
+  "Universe": "DC Comics",
+  "Superhero": "Catwoman (Injustice)",
+  "identity": "Selina Kyle",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 50,
+  "durability": 45,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16778"
+  },
+  "id": 109,
+  "Universe": "DC Comics",
+  "Superhero": "Catwoman",
+  "identity": "Selina Kyle",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 45,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16779"
+  },
+  "id": 110,
+  "Universe": "Shueisha",
+  "Superhero": "Caulifla",
+  "identity": "Caulifla",
+  "gender": "Female",
+  "race": "Saiyan",
+  "alignment": "Neutral",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677a"
+  },
+  "id": 111,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cerebra",
+  "identity": "Shakti Haddad",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 0,
+  "strength": 0,
+  "speed": 0,
+  "durability": 0,
+  "power": 5,
+  "combat": 0
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677b"
+  },
+  "id": 112,
+  "Universe": "Marvel Comics",
+  "Superhero": "Chamber",
+  "identity": "Jonothon Evan Starsmore",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 20,
+  "durability": 80,
+  "power": 55,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677c"
+  },
+  "id": 113,
+  "Universe": "Marvel Comics",
+  "Superhero": "Champion Of The Universe",
+  "identity": "Tryco Slatterus",
+  "gender": "Male",
+  "race": "Elder",
+  "alignment": "Neutral",
+  "intelligence": 50,
+  "strength": 100,
+  "speed": 75,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677d"
+  },
+  "id": 114,
+  "Universe": "DC Comics",
+  "Superhero": "Cheetah II",
+  "identity": "Deborah Domaine",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 20,
+  "speed": 40,
+  "durability": 20,
+  "power": 40,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677e"
+  },
+  "id": 115,
+  "Universe": "DC Comics",
+  "Superhero": "Cheetah III",
+  "identity": "Barbara Minerva",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 90,
+  "durability": 80,
+  "power": 80,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1677f"
+  },
+  "id": 116,
+  "Universe": "DC Comics",
+  "Superhero": "Cheshire",
+  "identity": "Jade Nguyen",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 35,
+  "durability": 50,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16780"
+  },
+  "id": 117,
+  "Universe": "DC Comics",
+  "Superhero": "Citizen Steel (CW)",
+  "identity": "Nate Heywood",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 90,
+  "speed": 35,
+  "durability": 100,
+  "power": 70,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16781"
+  },
+  "id": 118,
+  "Universe": "Lego",
+  "Superhero": "Cole (The LEGO Ninjago Movie)",
+  "identity": "Cole",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 25,
+  "speed": 25,
+  "durability": 30,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16782"
+  },
+  "id": 119,
+  "Universe": "Marvel Comics",
+  "Superhero": "Collector",
+  "identity": "Taneleer Tivan",
+  "gender": "Male",
+  "race": "Elder",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 50,
+  "speed": 30,
+  "durability": 60,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16783"
+  },
+  "id": 120,
+  "Universe": "Marvel Comics",
+  "Superhero": "Colossus",
+  "identity": "Peter Rasputin",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 85,
+  "speed": 35,
+  "durability": 100,
+  "power": 45,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16784"
+  },
+  "id": 121,
+  "Universe": "DC Comics",
+  "Superhero": "Connor Hawke",
+  "identity": "Connor Hawke",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 35,
+  "durability": 40,
+  "power": 55,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16785"
+  },
+  "id": 122,
+  "Universe": "Ubisoft",
+  "Superhero": "Connor Kenway",
+  "identity": "Ratonhnhaké:ton",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 40,
+  "durability": 40,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16786"
+  },
+  "id": 123,
+  "Universe": "DC Comics",
+  "Superhero": "Constantine (CW)",
+  "identity": "John Constantine",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16787"
+  },
+  "id": 124,
+  "Universe": "Marvel Comics",
+  "Superhero": "Copycat",
+  "identity": "Vanessa Carlysle",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Neutral",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 20,
+  "durability": 25,
+  "power": 55,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16788"
+  },
+  "id": 125,
+  "Universe": "Marvel Comics",
+  "Superhero": "Corvus Glaive (MCU)",
+  "identity": "Corvus Glaive",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 65,
+  "speed": 65,
+  "durability": 70,
+  "power": 65,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16789"
+  },
+  "id": 126,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cosmo The Spacedog",
+  "identity": "Cosmo",
+  "gender": "Male",
+  "race": "Animal",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 30,
+  "durability": 45,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678a"
+  },
+  "id": 127,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cottonmouth",
+  "identity": "Burchell Clemens",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 10,
+  "durability": 10,
+  "power": 25,
+  "combat": 25
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678b"
+  },
+  "id": 128,
+  "Universe": "Marvel Comics",
+  "Superhero": "Crystal (MCU)",
+  "identity": "Crystalia Amaquelin",
+  "gender": "Female",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 25,
+  "durability": 20,
+  "power": 80,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678c"
+  },
+  "id": 129,
+  "Universe": "Marvel Comics",
+  "Superhero": "Crystal",
+  "identity": "Crystallia Amaquelin",
+  "gender": "Female",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 10,
+  "durability": 15,
+  "power": 60,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678d"
+  },
+  "id": 130,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cull Obsidian (MCU)",
+  "identity": "Cull Obsidian",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 60,
+  "strength": 90,
+  "speed": 60,
+  "durability": 85,
+  "power": 85,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678e"
+  },
+  "id": 131,
+  "Universe": "Lego",
+  "Superhero": "Cyborg (Sonar Suit)",
+  "identity": "Victor Stone",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 55,
+  "durability": 60,
+  "power": 40,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1678f"
+  },
+  "id": 132,
+  "Universe": "DC Comics",
+  "Superhero": "Cyborg Superman",
+  "identity": "Henry Henshaw",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 95,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16790"
+  },
+  "id": 133,
+  "Universe": "DC Comics",
+  "Superhero": "Cyborg",
+  "identity": "Victor Stone",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 40,
+  "durability": 85,
+  "power": 70,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16791"
+  },
+  "id": 134,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cyclops (FOX)",
+  "identity": "Scott Summers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 65,
+  "strength": 15,
+  "speed": 30,
+  "durability": 30,
+  "power": 50,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16792"
+  },
+  "id": 135,
+  "Universe": "Marvel Comics",
+  "Superhero": "Cyclops",
+  "identity": "Scott Summers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 25,
+  "durability": 40,
+  "power": 75,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16793"
+  },
+  "id": 136,
+  "Universe": "Marvel Comics",
+  "Superhero": "Daken",
+  "identity": "Akihiro",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 50,
+  "durability": 80,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16794"
+  },
+  "id": 137,
+  "Universe": "DC Comics",
+  "Superhero": "Dark Archer (CW)",
+  "identity": "Malcolm Merlyn",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 45,
+  "durability": 50,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16795"
+  },
+  "id": 138,
+  "Universe": "Marvel Comics",
+  "Superhero": "Darkhawk",
+  "identity": "Christopher Powell",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 35,
+  "durability": 70,
+  "power": 75,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16796"
+  },
+  "id": 139,
+  "Universe": "Universal Studios",
+  "Superhero": "Darkman",
+  "identity": "Peyton Westlake",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 20,
+  "durability": 60,
+  "power": 20,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16797"
+  },
+  "id": 140,
+  "Universe": "Marvel Comics",
+  "Superhero": "Darkstar",
+  "identity": "Laynia Petrovna",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 35,
+  "durability": 40,
+  "power": 80,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16798"
+  },
+  "id": 141,
+  "Universe": "George Lucas",
+  "Superhero": "Darth Maul",
+  "identity": "Maul",
+  "gender": "Male",
+  "race": "Dathomirian Zabrak",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 50,
+  "speed": 35,
+  "durability": 45,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16799"
+  },
+  "id": 142,
+  "Universe": "George Lucas",
+  "Superhero": "Darth Nox",
+  "identity": "Remowa Alucard",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 100,
+  "durability": 30,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679a"
+  },
+  "id": 143,
+  "Universe": "Marvel Comics",
+  "Superhero": "Darwin (FOX)",
+  "identity": "Armando Muñoz",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 30,
+  "durability": 100,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679b"
+  },
+  "id": 144,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Dash",
+  "identity": "Dashiell Robert Parr",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 65,
+  "strength": 10,
+  "speed": 90,
+  "durability": 60,
+  "power": 20,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679c"
+  },
+  "id": 145,
+  "Universe": "Marvel Comics",
+  "Superhero": "Dazzler",
+  "identity": "Alison Blaire",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 35,
+  "durability": 60,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679d"
+  },
+  "id": 146,
+  "Universe": "DC Comics",
+  "Superhero": "Deadshot (CW)",
+  "identity": "Floyd Lawton",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679e"
+  },
+  "id": 147,
+  "Universe": "DC Comics",
+  "Superhero": "Deadshot (New 52)",
+  "identity": "Floyd Lawton",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 25,
+  "durability": 35,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1679f"
+  },
+  "id": 148,
+  "Universe": "DC Comics",
+  "Superhero": "Death Of The Endless",
+  "identity": "Death",
+  "gender": "Female",
+  "race": "Cosmic Entity",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a0"
+  },
+  "id": 149,
+  "Universe": "Marvel Comics",
+  "Superhero": "Death Seed Archangel",
+  "identity": "Warren Worthington",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Neutral",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 90,
+  "durability": 80,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a1"
+  },
+  "id": 150,
+  "Universe": "DC Comics",
+  "Superhero": "Deathstroke (Injustice)",
+  "identity": "Slade Wilson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 35,
+  "durability": 70,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a2"
+  },
+  "id": 151,
+  "Universe": "DC Comics",
+  "Superhero": "Deathstroke (New 52)",
+  "identity": "Slade Wilson",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 35,
+  "speed": 45,
+  "durability": 60,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a3"
+  },
+  "id": 152,
+  "Universe": "DC Comics",
+  "Superhero": "Deathstroke",
+  "identity": "Slade Wilson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 35,
+  "durability": 65,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a4"
+  },
+  "id": 153,
+  "Universe": "Ubisoft",
+  "Superhero": "Desmond Miles",
+  "identity": "Desmond Miles",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 30,
+  "durability": 40,
+  "power": 95,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a5"
+  },
+  "id": 154,
+  "Universe": "DC Comics",
+  "Superhero": "Destruction Of The Endless",
+  "identity": "Destruction",
+  "gender": "Male",
+  "race": "Cosmic Entity",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a6"
+  },
+  "id": 155,
+  "Universe": "DC Comics",
+  "Superhero": "Detective Chimp",
+  "identity": "Bobo T. Chimpanzee",
+  "gender": "Male",
+  "race": "Gorilla",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 60,
+  "durability": 85,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a7"
+  },
+  "id": 156,
+  "Universe": "DC Comics",
+  "Superhero": "Devastator",
+  "identity": "Bruce Wayne",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 70,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a8"
+  },
+  "id": 157,
+  "Universe": "Shueisha",
+  "Superhero": "Devilman",
+  "identity": "Akira Fudo",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167a9"
+  },
+  "id": 158,
+  "Universe": "Marvel Comics",
+  "Superhero": "Doc Green",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 75,
+  "durability": 70,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167aa"
+  },
+  "id": 159,
+  "Universe": "Marvel Comics",
+  "Superhero": "Doc Samson",
+  "identity": "Leonard Samson",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 80,
+  "speed": 35,
+  "durability": 80,
+  "power": 35,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ab"
+  },
+  "id": 160,
+  "Universe": "DC Comics",
+  "Superhero": "Doctor Mid-Nite",
+  "identity": "Dr Charles Mcnider",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 35,
+  "speed": 35,
+  "durability": 35,
+  "power": 55,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ac"
+  },
+  "id": 161,
+  "Universe": "DC Comics",
+  "Superhero": "Doctor Occult",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 100,
+  "durability": 90,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ad"
+  },
+  "id": 162,
+  "Universe": "Marvel Comics",
+  "Superhero": "Doctor Octopus",
+  "identity": "Otto Octavius",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 50,
+  "speed": 35,
+  "durability": 40,
+  "power": 55,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ae"
+  },
+  "id": 163,
+  "Universe": "Marvel Comics",
+  "Superhero": "Domino (FOX)",
+  "identity": "Neena Thurman",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 50,
+  "durability": 30,
+  "power": 45,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167af"
+  },
+  "id": 164,
+  "Universe": "Marvel Comics",
+  "Superhero": "Domino",
+  "identity": "Neena Thurman",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 50,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b0"
+  },
+  "id": 165,
+  "Universe": "DC Comics",
+  "Superhero": "Donna Troy",
+  "identity": "Donna Hinckley Stacey Troy",
+  "gender": "Female",
+  "race": "Amazon",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 90,
+  "speed": 60,
+  "durability": 90,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b1"
+  },
+  "id": 166,
+  "Universe": "DC Comics",
+  "Superhero": "Doomsday",
+  "identity": "Doomsday",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 65,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b2"
+  },
+  "id": 167,
+  "Universe": "Marvel Comics",
+  "Superhero": "Dormammu",
+  "identity": "Dormammu",
+  "gender": "Male",
+  "race": "Cosmic Entity",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b3"
+  },
+  "id": 168,
+  "Universe": "DC Comics",
+  "Superhero": "Dove (Titans)",
+  "identity": "Dawn Granger",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 45,
+  "durability": 40,
+  "power": 40,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b4"
+  },
+  "id": 169,
+  "Universe": "DC Comics",
+  "Superhero": "Dr Manhattan",
+  "identity": "Jonathan Osterman",
+  "gender": "Male",
+  "race": "Human / Cosmic",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 40,
+  "durability": 100,
+  "power": 100,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b5"
+  },
+  "id": 170,
+  "Universe": "Konami",
+  "Superhero": "Dracula",
+  "identity": "Vlad Tepes Dracula",
+  "gender": "Male",
+  "race": "Vampire",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b6"
+  },
+  "id": 171,
+  "Universe": "Marvel Comics",
+  "Superhero": "Drax the Destroyer",
+  "identity": "Arthur Sampson Douglas",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 25,
+  "durability": 85,
+  "power": 45,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b7"
+  },
+  "id": 172,
+  "Universe": "Ubisoft",
+  "Superhero": "Edward Kenway",
+  "identity": "Edward Kenway",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 40,
+  "durability": 40,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b8"
+  },
+  "id": 173,
+  "Universe": "DC Comics",
+  "Superhero": "El Diablo",
+  "identity": "Chato Santana",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 60,
+  "strength": 20,
+  "speed": 30,
+  "durability": 80,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167b9"
+  },
+  "id": 174,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Elastigirl",
+  "identity": "Helen Parr",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 35,
+  "durability": 95,
+  "power": 50,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ba"
+  },
+  "id": 175,
+  "Universe": "Marvel Comics",
+  "Superhero": "Electro (SONY)",
+  "identity": "Max Dillon",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 70,
+  "durability": 70,
+  "power": 90,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167bb"
+  },
+  "id": 176,
+  "Universe": "Marvel Comics",
+  "Superhero": "Electro",
+  "identity": "Maxwell Dillon",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 50,
+  "durability": 55,
+  "power": 65,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167bc"
+  },
+  "id": 177,
+  "Universe": "Marvel Comics",
+  "Superhero": "Elektra (Fox)",
+  "identity": "Elektra Natchios",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 50,
+  "durability": 45,
+  "power": 50,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167bd"
+  },
+  "id": 178,
+  "Universe": "Marvel Comics",
+  "Superhero": "Elektra",
+  "identity": "Elektra Natchios",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 30,
+  "durability": 30,
+  "power": 60,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167be"
+  },
+  "id": 179,
+  "Universe": "Marvel Comics",
+  "Superhero": "Emma Frost (FOX)",
+  "identity": "Emma Grace Frost",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 30,
+  "speed": 50,
+  "durability": 85,
+  "power": 90,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167bf"
+  },
+  "id": 180,
+  "Universe": "Marvel Comics",
+  "Superhero": "Emma Frost",
+  "identity": "Emma Frost",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 70,
+  "durability": 100,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c0"
+  },
+  "id": 181,
+  "Universe": "Marvel Comics",
+  "Superhero": "Erik Killmonger",
+  "identity": "N'Jadaka",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 30,
+  "durability": 65,
+  "power": 70,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c1"
+  },
+  "id": 182,
+  "Universe": "DC Comics",
+  "Superhero": "Etrigan",
+  "identity": "Jason Blood",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 85,
+  "speed": 15,
+  "durability": 100,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c2"
+  },
+  "id": 183,
+  "Universe": "Ubisoft",
+  "Superhero": "Evie Frye",
+  "identity": "Evie Frye",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 45,
+  "durability": 30,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c3"
+  },
+  "id": 184,
+  "Universe": "Marvel Comics",
+  "Superhero": "Evil Deadpool",
+  "identity": "Wade Wilson",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c4"
+  },
+  "id": 185,
+  "Universe": "Marvel Comics",
+  "Superhero": "Evilhawk",
+  "identity": "Dargin Bokk ",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 35,
+  "durability": 70,
+  "power": 85,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c5"
+  },
+  "id": 186,
+  "Universe": "Marvel Comics",
+  "Superhero": "Exodus",
+  "identity": "Bennet du Paris ",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 30,
+  "durability": 30,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c6"
+  },
+  "id": 187,
+  "Universe": "Marvel Comics",
+  "Superhero": "Falcon",
+  "identity": "Sam Wilson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 15,
+  "speed": 50,
+  "durability": 30,
+  "power": 20,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c7"
+  },
+  "id": 188,
+  "Universe": "Marvel Comics",
+  "Superhero": "Fandral (MCU)",
+  "identity": "Fandral",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 55,
+  "speed": 70,
+  "durability": 70,
+  "power": 65,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c8"
+  },
+  "id": 189,
+  "Universe": "DC Comics",
+  "Superhero": "Faora",
+  "identity": "Faora Hu-Ul",
+  "gender": "Female",
+  "race": "Kryptonian",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 95,
+  "speed": 75,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167c9"
+  },
+  "id": 190,
+  "Universe": "DC Comics",
+  "Superhero": "Felix Faust",
+  "identity": "Dekan Drache",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 20,
+  "durability": 65,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ca"
+  },
+  "id": 191,
+  "Universe": "Marvel Comics",
+  "Superhero": "Firestar",
+  "identity": "Angelica Jones",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 55,
+  "durability": 55,
+  "power": 70,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167cb"
+  },
+  "id": 192,
+  "Universe": "DC Comics",
+  "Superhero": "Firestorm (CW)",
+  "identity": "Ronald Raymond",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 35,
+  "speed": 80,
+  "durability": 70,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167cc"
+  },
+  "id": 193,
+  "Universe": "DC Comics",
+  "Superhero": "Firestorm II (CW)",
+  "identity": "Jefferson Jackson",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 35,
+  "speed": 80,
+  "durability": 70,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167cd"
+  },
+  "id": 194,
+  "Universe": "DC Comics",
+  "Superhero": "Firestorm",
+  "identity": "Ronald Raymond",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 80,
+  "speed": 60,
+  "durability": 80,
+  "power": 100,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ce"
+  },
+  "id": 195,
+  "Universe": "DC Comics",
+  "Superhero": "Flash (CW)",
+  "identity": "Barry Allen",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 35,
+  "speed": 100,
+  "durability": 75,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167cf"
+  },
+  "id": 196,
+  "Universe": "DC Comics",
+  "Superhero": "Flash (Injustice)",
+  "identity": "Barry Allen",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 100,
+  "durability": 95,
+  "power": 100,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d0"
+  },
+  "id": 197,
+  "Universe": "DC Comics",
+  "Superhero": "Flash IV",
+  "identity": "Bartholomew Allen II",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 100,
+  "durability": 30,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d1"
+  },
+  "id": 198,
+  "Universe": "DC Comics",
+  "Superhero": "Flash",
+  "identity": "Jay Garrick",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 100,
+  "durability": 50,
+  "power": 70,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d2"
+  },
+  "id": 199,
+  "Universe": "Marvel Comics",
+  "Superhero": "Franklin Richards",
+  "identity": "Franklin Richards",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 80,
+  "speed": 15,
+  "durability": 100,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d3"
+  },
+  "id": 200,
+  "Universe": "Shueisha",
+  "Superhero": "Gaara",
+  "identity": "Gaara",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 90,
+  "speed": 65,
+  "durability": 95,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d4"
+  },
+  "id": 201,
+  "Universe": "Marvel Comics",
+  "Superhero": "Gambit",
+  "identity": "Remy Etienne LeBeau",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 60,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d5"
+  },
+  "id": 202,
+  "Universe": "Marvel Comics",
+  "Superhero": "Gamora",
+  "identity": "Gamora Zen Whoberi Ben Titan",
+  "gender": "Female",
+  "race": "Zen-Whoberian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 85,
+  "speed": 40,
+  "durability": 85,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d6"
+  },
+  "id": 203,
+  "Universe": "J. R. R. Tolkien",
+  "Superhero": "Gandalf The White",
+  "identity": "Mithrandir",
+  "gender": "Male",
+  "race": "Maiar",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 65,
+  "durability": 80,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d7"
+  },
+  "id": 204,
+  "Universe": "J. R. R. Tolkien",
+  "Superhero": "Gandalf",
+  "identity": "Olórin",
+  "gender": "Male",
+  "race": "Maiar",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 60,
+  "durability": 70,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d8"
+  },
+  "id": 205,
+  "Universe": "Lego",
+  "Superhero": "General Vex",
+  "identity": "Vex",
+  "gender": "Male",
+  "race": "Lego",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 30,
+  "speed": 50,
+  "durability": 10,
+  "power": 20,
+  "combat": 10
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167d9"
+  },
+  "id": 206,
+  "Universe": "DC Comics",
+  "Superhero": "General Zod",
+  "identity": "Dru-Zod",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 95,
+  "durability": 100,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167da"
+  },
+  "id": 207,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ghost Rider II (MCU)",
+  "identity": "Robbie Reyes",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 55,
+  "speed": 30,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167db"
+  },
+  "id": 208,
+  "Universe": "Marvel Comics",
+  "Superhero": "Gladiator",
+  "identity": "Kallark",
+  "gender": "Male",
+  "race": "Strontian",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 75,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167dc"
+  },
+  "id": 209,
+  "Universe": "Lego",
+  "Superhero": "Golden Ninja",
+  "identity": "Lloyd Garmadon",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167dd"
+  },
+  "id": 210,
+  "Universe": "DC Comics",
+  "Superhero": "Gorilla Grodd (CW)",
+  "identity": "Grodd",
+  "gender": "Male",
+  "race": "Gorilla",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 65,
+  "speed": 65,
+  "durability": 80,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167de"
+  },
+  "id": 211,
+  "Universe": "Lego",
+  "Superhero": "GPL",
+  "identity": "GPL Tech",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 10,
+  "durability": 10,
+  "power": 20,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167df"
+  },
+  "id": 212,
+  "Universe": "George Lucas",
+  "Superhero": "Grand Master Skywalker",
+  "identity": "Luke Skywalker",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 100,
+  "durability": 30,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e0"
+  },
+  "id": 213,
+  "Universe": "Marvel Comics",
+  "Superhero": "Grant Ward (MCU)",
+  "identity": "Grant Ward",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 15,
+  "durability": 20,
+  "power": 25,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e1"
+  },
+  "id": 214,
+  "Universe": "Marvel Comics",
+  "Superhero": "Graviton (MCU)",
+  "identity": "Glenn Talbot",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 50,
+  "speed": 85,
+  "durability": 90,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e2"
+  },
+  "id": 215,
+  "Universe": "Marvel Comics",
+  "Superhero": "Gravity",
+  "identity": "Greg Willis",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 35,
+  "durability": 40,
+  "power": 70,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e3"
+  },
+  "id": 216,
+  "Universe": "DC Comics",
+  "Superhero": "Green Arrow (Injustice)",
+  "identity": "Oliver Queen",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 35,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e4"
+  },
+  "id": 217,
+  "Universe": "DC Comics",
+  "Superhero": "Green Arrow",
+  "identity": "Oliver Queen",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 25,
+  "speed": 25,
+  "durability": 30,
+  "power": 20,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e5"
+  },
+  "id": 218,
+  "Universe": "DC Comics",
+  "Superhero": "Green Lantern (Injustice)",
+  "identity": "Hal Jordan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 65,
+  "speed": 85,
+  "durability": 85,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e6"
+  },
+  "id": 219,
+  "Universe": "DC Comics",
+  "Superhero": "Green Lantern (New 52)",
+  "identity": "Alan Scott",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 75,
+  "speed": 65,
+  "durability": 95,
+  "power": 90,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e7"
+  },
+  "id": 220,
+  "Universe": "DC Comics",
+  "Superhero": "Grifter",
+  "identity": "Cole Cash",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 50,
+  "durability": 80,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e8"
+  },
+  "id": 221,
+  "Universe": "Marvel Comics",
+  "Superhero": "Grim Reaper",
+  "identity": "Eric Williams",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 40,
+  "durability": 50,
+  "power": 90,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167e9"
+  },
+  "id": 222,
+  "Universe": "Marvel Comics",
+  "Superhero": "Groot",
+  "identity": "Groot",
+  "gender": "Male",
+  "race": "Flora Colossus",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 85,
+  "speed": 35,
+  "durability": 70,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ea"
+  },
+  "id": 223,
+  "Universe": "DC Comics",
+  "Superhero": "Gypsy (CW)",
+  "identity": "Cynthia",
+  "gender": "Female",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 45,
+  "durability": 40,
+  "power": 80,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167eb"
+  },
+  "id": 224,
+  "Universe": "DC Comics",
+  "Superhero": "Harley Quinn (Arkham)",
+  "identity": "Harleen Quinzel",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 50,
+  "durability": 60,
+  "power": 75,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ec"
+  },
+  "id": 225,
+  "Universe": "DC Comics",
+  "Superhero": "Harley Quinn (New 52)",
+  "identity": "Harleen Quinzel",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 50,
+  "durability": 65,
+  "power": 65,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ed"
+  },
+  "id": 226,
+  "Universe": "DC Comics",
+  "Superhero": "Harley Quinn",
+  "identity": "Harleen Quinzel",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 35,
+  "durability": 65,
+  "power": 55,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ee"
+  },
+  "id": 227,
+  "Universe": "DC Comics",
+  "Superhero": "Harrison Wells (CW)",
+  "identity": "Harrison Wells",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 25,
+  "durability": 20,
+  "power": 15,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ef"
+  },
+  "id": 228,
+  "Universe": "Marvel Comics",
+  "Superhero": "Harry Osborn (Raimi Trilogy)",
+  "identity": "Harold Osborn",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 50,
+  "speed": 60,
+  "durability": 60,
+  "power": 70,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f0"
+  },
+  "id": 229,
+  "Universe": "J. K. Rowling",
+  "Superhero": "Harry Potter",
+  "identity": "Harry James Potter",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 5,
+  "speed": 20,
+  "durability": 10,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f1"
+  },
+  "id": 230,
+  "Universe": "Marvel Comics",
+  "Superhero": "Havok (FOX)",
+  "identity": "Alexander Summers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 50,
+  "durability": 60,
+  "power": 55,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f2"
+  },
+  "id": 231,
+  "Universe": "Marvel Comics",
+  "Superhero": "Havok",
+  "identity": "Alexander Summers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 25,
+  "durability": 60,
+  "power": 70,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f3"
+  },
+  "id": 232,
+  "Universe": "DC Comics",
+  "Superhero": "Hawk (Titans)",
+  "identity": "Hank Hall",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 35,
+  "durability": 50,
+  "power": 45,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f4"
+  },
+  "id": 233,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hawkeye II",
+  "identity": "Katherine Elizabeth Bishop",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 5,
+  "speed": 10,
+  "durability": 10,
+  "power": 25,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f5"
+  },
+  "id": 234,
+  "Universe": "DC Comics",
+  "Superhero": "Hawkgirl (CW)",
+  "identity": "Kendra Saunders",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 55,
+  "durability": 100,
+  "power": 80,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f6"
+  },
+  "id": 235,
+  "Universe": "DC Comics",
+  "Superhero": "Hawkman (CW)",
+  "identity": "Carter Hall",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 55,
+  "speed": 60,
+  "durability": 70,
+  "power": 50,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f7"
+  },
+  "id": 236,
+  "Universe": "DC Comics",
+  "Superhero": "Heat Wave (CW)",
+  "identity": "Mick Rory",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 30,
+  "durability": 45,
+  "power": 40,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f8"
+  },
+  "id": 237,
+  "Universe": "DC Comics",
+  "Superhero": "Heat Wave",
+  "identity": "Mick Rory",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 15,
+  "durability": 45,
+  "power": 25,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167f9"
+  },
+  "id": 238,
+  "Universe": "Marvel Comics",
+  "Superhero": "Heimdall (MCU)",
+  "identity": "Heimdall",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 35,
+  "speed": 85,
+  "durability": 90,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167fa"
+  },
+  "id": 239,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Hellboy (Injustice 2)",
+  "identity": "Anung Un Rama",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167fb"
+  },
+  "id": 240,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Hellboy",
+  "identity": "Anung Un Rama",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 55,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167fc"
+  },
+  "id": 241,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hellcat",
+  "identity": "Patricia Walker",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 35,
+  "durability": 45,
+  "power": 45,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167fd"
+  },
+  "id": 242,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hellfire (MCU)",
+  "identity": "JT James",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 20,
+  "durability": 25,
+  "power": 55,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167fe"
+  },
+  "id": 243,
+  "Universe": "DC Comics",
+  "Superhero": "Highfather",
+  "identity": "Izaya",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd167ff"
+  },
+  "id": 244,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hit-Monkey",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Animal",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 50,
+  "durability": 45,
+  "power": 70,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16800"
+  },
+  "id": 245,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hive (MCU)",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 40,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16801"
+  },
+  "id": 246,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hogun (MCU)",
+  "identity": "Hogun",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 60,
+  "speed": 60,
+  "durability": 75,
+  "power": 70,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16802"
+  },
+  "id": 247,
+  "Universe": "DC Comics",
+  "Superhero": "Hourman",
+  "identity": "Rex Tyler",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 80,
+  "speed": 65,
+  "durability": 70,
+  "power": 85,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16803"
+  },
+  "id": 248,
+  "Universe": "Marvel Comics",
+  "Superhero": "Howard The Duck",
+  "identity": "Howard",
+  "gender": "Male",
+  "race": "Animal",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 40,
+  "durability": 40,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16804"
+  },
+  "id": 249,
+  "Universe": "DC Comics",
+  "Superhero": "Hugo Strange",
+  "identity": "Professor Hugo Strange",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 35,
+  "durability": 45,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16805"
+  },
+  "id": 250,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hulk Earth-5901",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16806"
+  },
+  "id": 251,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hulk",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 60,
+  "strength": 100,
+  "speed": 85,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16807"
+  },
+  "id": 252,
+  "Universe": "Marvel Comics",
+  "Superhero": "Human Torch (FOX)",
+  "identity": "Jonathan Storm",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 75,
+  "durability": 50,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16808"
+  },
+  "id": 253,
+  "Universe": "Marvel Comics",
+  "Superhero": "Human Torch II",
+  "identity": "Jim Hammond",
+  "gender": "Male",
+  "race": "Android",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 35,
+  "durability": 60,
+  "power": 55,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16809"
+  },
+  "id": 254,
+  "Universe": "DC Comics",
+  "Superhero": "Huntress (CW)",
+  "identity": "Helena Bertinelli",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 45,
+  "durability": 30,
+  "power": 20,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680a"
+  },
+  "id": 255,
+  "Universe": "DC Comics",
+  "Superhero": "Huntress (Injustice)",
+  "identity": "Helena Rosa Bertinelli",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 50,
+  "durability": 50,
+  "power": 35,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680b"
+  },
+  "id": 256,
+  "Universe": "DC Comics",
+  "Superhero": "Hush",
+  "identity": "Thomas Elliot",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 40,
+  "power": 25,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680c"
+  },
+  "id": 257,
+  "Universe": "Marvel Comics",
+  "Superhero": "Husk",
+  "identity": "Paige Elisabeth Guthrie",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 65,
+  "speed": 35,
+  "durability": 80,
+  "power": 50,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680d"
+  },
+  "id": 258,
+  "Universe": "Marvel Comics",
+  "Superhero": "Hybrid",
+  "identity": "Scott Washington",
+  "gender": "Male",
+  "race": "Symbiote",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 65,
+  "speed": 60,
+  "durability": 75,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680e"
+  },
+  "id": 259,
+  "Universe": "Marvel Comics",
+  "Superhero": "Iceman (FOX)",
+  "identity": "Bobby Drake",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 35,
+  "speed": 50,
+  "durability": 60,
+  "power": 70,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1680f"
+  },
+  "id": 260,
+  "Universe": "Marvel Comics",
+  "Superhero": "Iceman",
+  "identity": "Bobby Drake",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 55,
+  "durability": 100,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16810"
+  },
+  "id": 261,
+  "Universe": "DC Comics",
+  "Superhero": "Icon",
+  "identity": "Arnus",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16811"
+  },
+  "id": 262,
+  "Universe": "Marvel Comics",
+  "Superhero": "Immortal Hulk",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16812"
+  },
+  "id": 263,
+  "Universe": "DC Comics",
+  "Superhero": "Imperiex",
+  "identity": "Imperiex",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 95,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16813"
+  },
+  "id": 264,
+  "Universe": "Marvel Comics",
+  "Superhero": "Incredible Hulk (Universal)",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 75,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16814"
+  },
+  "id": 265,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ink",
+  "identity": "Eric Gitter",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 30,
+  "speed": 15,
+  "durability": 40,
+  "power": 75,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16815"
+  },
+  "id": 266,
+  "Universe": "Marvel Comics",
+  "Superhero": "Invisible Woman (FOX)",
+  "identity": "Susan Storm",
+  "gender": "Female",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 75,
+  "durability": 85,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16816"
+  },
+  "id": 267,
+  "Universe": "Marvel Comics",
+  "Superhero": "Iron Fist",
+  "identity": "Danny Rand",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 35,
+  "durability": 50,
+  "power": 95,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16817"
+  },
+  "id": 268,
+  "Universe": "Marvel Comics",
+  "Superhero": "Iron Monger (MCU)",
+  "identity": "Obadiah Stane",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 65,
+  "speed": 70,
+  "durability": 70,
+  "power": 55,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16818"
+  },
+  "id": 269,
+  "Universe": "Shueisha",
+  "Superhero": "Itachi Uchiha",
+  "identity": "Uchiha Itachi",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 80,
+  "durability": 75,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16819"
+  },
+  "id": 270,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Jack-Jack",
+  "identity": "Jack-Jack Parr",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 35,
+  "strength": 35,
+  "speed": 65,
+  "durability": 80,
+  "power": 100,
+  "combat": 5
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681a"
+  },
+  "id": 271,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jack of Hearts",
+  "identity": "Jonathan Hart",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 55,
+  "speed": 100,
+  "durability": 30,
+  "power": 75,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681b"
+  },
+  "id": 272,
+  "Universe": "Ubisoft",
+  "Superhero": "Jacob Frye",
+  "identity": "Jacob Frye",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 40,
+  "durability": 35,
+  "power": 65,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681c"
+  },
+  "id": 273,
+  "Universe": "Ian Fleming",
+  "Superhero": "James Bond (Craig)",
+  "identity": "James Bond",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 15,
+  "durability": 35,
+  "power": 25,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681d"
+  },
+  "id": 274,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jane Foster (MCU)",
+  "identity": "Jane Foster",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 15,
+  "durability": 10,
+  "power": 15,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681e"
+  },
+  "id": 275,
+  "Universe": "Lego",
+  "Superhero": "Jay (The LEGO Ninjago Movie)",
+  "identity": "Jay Gordon",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 35,
+  "durability": 30,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1681f"
+  },
+  "id": 276,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jean Grey",
+  "identity": "Jean Grey",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 80,
+  "speed": 20,
+  "durability": 20,
+  "power": 95,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16820"
+  },
+  "id": 277,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jemma Simmons (MCU)",
+  "identity": "Jemma Anne Simmons",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 20,
+  "power": 10,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16821"
+  },
+  "id": 278,
+  "Universe": "DC Comics",
+  "Superhero": "Jesse Quick (CW)",
+  "identity": "Jesse Wells",
+  "gender": "Female",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 100,
+  "durability": 75,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16822"
+  },
+  "id": 279,
+  "Universe": "DC Comics",
+  "Superhero": "Jesse Quick",
+  "identity": "Jesse Chambers",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 30,
+  "speed": 100,
+  "durability": 60,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16823"
+  },
+  "id": 280,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jessica Jones",
+  "identity": "Jessica Campbell Jones Cage",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 45,
+  "speed": 50,
+  "durability": 70,
+  "power": 20,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16824"
+  },
+  "id": 281,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jigsaw (MCU)",
+  "identity": "Billy Russo",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 35,
+  "durability": 45,
+  "power": 45,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16825"
+  },
+  "id": 282,
+  "Universe": "DC Comics",
+  "Superhero": "Joe Wilson (CW)",
+  "identity": "Joe Wilson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 35,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16826"
+  },
+  "id": 283,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Johann Krauss",
+  "identity": "Johann Krauss",
+  "gender": "Male",
+  "race": "Energy",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 70,
+  "durability": 60,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16827"
+  },
+  "id": 284,
+  "Universe": "Marvel Comics",
+  "Superhero": "John Pilgrim (MCU)",
+  "identity": "Robert Pilgrim",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 35,
+  "durability": 45,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16828"
+  },
+  "id": 285,
+  "Universe": "DC Comics",
+  "Superhero": "Joker",
+  "identity": "Jack Napier",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 10,
+  "durability": 60,
+  "power": 45,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16829"
+  },
+  "id": 286,
+  "Universe": "DC Comics",
+  "Superhero": "Jonah Hex (CW)",
+  "identity": "Jonah Hex",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 30,
+  "durability": 35,
+  "power": 40,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682a"
+  },
+  "id": 287,
+  "Universe": "Marvel Comics",
+  "Superhero": "Jubilee",
+  "identity": "Jubilation Lee",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 20,
+  "durability": 20,
+  "power": 65,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682b"
+  },
+  "id": 288,
+  "Universe": "Marvel Comics",
+  "Superhero": "Juggernaut (FOX)",
+  "identity": "Cain Marko",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 65,
+  "strength": 50,
+  "speed": 70,
+  "durability": 85,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682c"
+  },
+  "id": 289,
+  "Universe": "Marvel Comics",
+  "Superhero": "Juggernaut",
+  "identity": "Cain Marko",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 100,
+  "speed": 65,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682d"
+  },
+  "id": 290,
+  "Universe": "Marvel Comics",
+  "Superhero": "Justice",
+  "identity": "Vance Astrovik",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 35,
+  "durability": 70,
+  "power": 60,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682e"
+  },
+  "id": 291,
+  "Universe": "Marvel Comics",
+  "Superhero": "Justin Hammer",
+  "identity": "Justin Hammer",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 15,
+  "durability": 10,
+  "power": 10,
+  "combat": 15
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1682f"
+  },
+  "id": 292,
+  "Universe": "Marvel Comics",
+  "Superhero": "Kaecilius (MCU)",
+  "identity": "Kaecilius",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 50,
+  "durability": 55,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16830"
+  },
+  "id": 293,
+  "Universe": "Shueisha",
+  "Superhero": "Kaguya Ōtsutsuki",
+  "identity": "Ōtsutsuki Kaguya",
+  "gender": "Female",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 55,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16831"
+  },
+  "id": 294,
+  "Universe": "Lego",
+  "Superhero": "Kai (The LEGO Ninjago Movie)",
+  "identity": "Kai",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 60,
+  "durability": 55,
+  "power": 85,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16832"
+  },
+  "id": 295,
+  "Universe": "Shueisha",
+  "Superhero": "Kale",
+  "identity": "Kale",
+  "gender": "Female",
+  "race": "Saiyan",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16833"
+  },
+  "id": 296,
+  "Universe": "DC Comics",
+  "Superhero": "Kanto",
+  "identity": "Iluthin",
+  "gender": "Male",
+  "race": "New God",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 60,
+  "speed": 65,
+  "durability": 90,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16834"
+  },
+  "id": 297,
+  "Universe": "Marvel Comics",
+  "Superhero": "Karnak (MCU)",
+  "identity": "Karnak Mander-Azur",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 45,
+  "durability": 55,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16835"
+  },
+  "id": 298,
+  "Universe": "DC Comics",
+  "Superhero": "Katana (DCEU)",
+  "identity": "Tatsu Yamashiro",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 50,
+  "durability": 40,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16836"
+  },
+  "id": 299,
+  "Universe": "DC Comics",
+  "Superhero": "Katana",
+  "identity": "Tatsu Yamashiro",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 50,
+  "durability": 40,
+  "power": 60,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16837"
+  },
+  "id": 300,
+  "Universe": "Shueisha",
+  "Superhero": "Kefla",
+  "identity": "Kale/Caulifla",
+  "gender": "Female",
+  "race": "Saiyan",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16838"
+  },
+  "id": 301,
+  "Universe": "Shueisha",
+  "Superhero": "Kenshiro",
+  "identity": "Kenshiro",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 90,
+  "speed": 65,
+  "durability": 65,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16839"
+  },
+  "id": 302,
+  "Universe": "DC Comics",
+  "Superhero": "KGBeast",
+  "identity": "Anatoli Knyazev",
+  "gender": "Male",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 20,
+  "speed": 30,
+  "durability": 50,
+  "power": 65,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683a"
+  },
+  "id": 303,
+  "Universe": "DC Comics",
+  "Superhero": "Kid Flash (CW)",
+  "identity": "Wally West",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 40,
+  "speed": 90,
+  "durability": 65,
+  "power": 90,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683b"
+  },
+  "id": 304,
+  "Universe": "DC Comics",
+  "Superhero": "Kid Flash II",
+  "identity": "Bartholomew Allen II",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 100,
+  "durability": 60,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683c"
+  },
+  "id": 305,
+  "Universe": "Marvel Comics",
+  "Superhero": "Kilgrave (MCU)",
+  "identity": "Kevin Thompson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 15,
+  "durability": 20,
+  "power": 80,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683d"
+  },
+  "id": 306,
+  "Universe": "DC Comics",
+  "Superhero": "Killer Croc (DCEU)",
+  "identity": "Waylon Jones",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 60,
+  "speed": 40,
+  "durability": 85,
+  "power": 75,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683e"
+  },
+  "id": 307,
+  "Universe": "DC Comics",
+  "Superhero": "Killer Croc",
+  "identity": "Waylon Jones",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 60,
+  "strength": 55,
+  "speed": 35,
+  "durability": 90,
+  "power": 55,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1683f"
+  },
+  "id": 308,
+  "Universe": "DC Comics",
+  "Superhero": "Killer Frost",
+  "identity": "Caitlin Snow",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 15,
+  "durability": 35,
+  "power": 60,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16840"
+  },
+  "id": 309,
+  "Universe": "Marvel Comics",
+  "Superhero": "Killian (MCU)",
+  "identity": "Aldrich Killian",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 50,
+  "speed": 60,
+  "durability": 70,
+  "power": 80,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16841"
+  },
+  "id": 310,
+  "Universe": "Marvel Comics",
+  "Superhero": "Killmonger (MCU)",
+  "identity": "Erik Stevens",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 60,
+  "speed": 60,
+  "durability": 80,
+  "power": 80,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16842"
+  },
+  "id": 311,
+  "Universe": "Marvel Comics",
+  "Superhero": "King Thanos",
+  "identity": "Thanos",
+  "gender": "Male",
+  "race": "Titanian",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 80,
+  "durability": 100,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16843"
+  },
+  "id": 312,
+  "Universe": "Marvel Comics",
+  "Superhero": "Kingpin",
+  "identity": "Wilson Grant Fisk",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 25,
+  "durability": 40,
+  "power": 15,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16844"
+  },
+  "id": 313,
+  "Universe": "Marvel Comics",
+  "Superhero": "Klaw (MCU)",
+  "identity": "Ulysses Klaue",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 35,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16845"
+  },
+  "id": 314,
+  "Universe": "Marvel Comics",
+  "Superhero": "Klaw",
+  "identity": "Ulysses Klaw",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 40,
+  "speed": 35,
+  "durability": 100,
+  "power": 60,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16846"
+  },
+  "id": 315,
+  "Universe": "Lego",
+  "Superhero": "Koko (The LEGO Ninjago Movie)",
+  "identity": "Koko",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 40,
+  "durability": 20,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16847"
+  },
+  "id": 316,
+  "Universe": "Marvel Comics",
+  "Superhero": "Kraven II",
+  "identity": "Alyosha Kravinoff",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 35,
+  "speed": 25,
+  "durability": 30,
+  "power": 45,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16848"
+  },
+  "id": 317,
+  "Universe": "Marvel Comics",
+  "Superhero": "Kraven the Hunter",
+  "identity": "Sergei Kravinoff",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 35,
+  "durability": 40,
+  "power": 25,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16849"
+  },
+  "id": 318,
+  "Universe": "DC Comics",
+  "Superhero": "Krypto",
+  "identity": "Krypto the Superdog",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 55,
+  "strength": 80,
+  "speed": 100,
+  "durability": 90,
+  "power": 80,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684a"
+  },
+  "id": 319,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lady Bullseye",
+  "identity": "Maki Matsumotu",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 20,
+  "durability": 45,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684b"
+  },
+  "id": 320,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lady Deadpool",
+  "identity": "Wanda Wilson",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Neutral",
+  "intelligence": 50,
+  "strength": 15,
+  "speed": 60,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684c"
+  },
+  "id": 321,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lady Deathstrike",
+  "identity": "Yuriko Oyama",
+  "gender": "Female",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 40,
+  "durability": 85,
+  "power": 50,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684d"
+  },
+  "id": 322,
+  "Universe": "DC Comics",
+  "Superhero": "Lady Shiva",
+  "identity": "Sandra Wu-San",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 35,
+  "durability": 30,
+  "power": 40,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684e"
+  },
+  "id": 323,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lance Hunter (MCU)",
+  "identity": "Lance Hunter",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 40,
+  "durability": 35,
+  "power": 35,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1684f"
+  },
+  "id": 324,
+  "Universe": "Marvel Comics",
+  "Superhero": "Laufey (MCU)",
+  "identity": "Laufey",
+  "gender": "Male",
+  "race": "Frost Giant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 60,
+  "durability": 80,
+  "power": 70,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16850"
+  },
+  "id": 325,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lauren Strucker (Fox)",
+  "identity": "Lauren Strucker",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 20,
+  "durability": 15,
+  "power": 85,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16851"
+  },
+  "id": 326,
+  "Universe": "Marvel Comics",
+  "Superhero": "Leo Fitz (MCU)",
+  "identity": "Leopold Fitz",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 25,
+  "durability": 25,
+  "power": 20,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16852"
+  },
+  "id": 327,
+  "Universe": "DC Comics",
+  "Superhero": "Lex Luthor (DCEU)",
+  "identity": "Alexander Joseph Luthor",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 15,
+  "durability": 20,
+  "power": 20,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16853"
+  },
+  "id": 328,
+  "Universe": "DC Comics",
+  "Superhero": "Lex Luthor (Injustice)",
+  "identity": "Alexander Luthor",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 25,
+  "durability": 65,
+  "power": 90,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16854"
+  },
+  "id": 329,
+  "Universe": "DC Comics",
+  "Superhero": "Lex Luthor",
+  "identity": "Lex Luthor",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 25,
+  "durability": 65,
+  "power": 70,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16855"
+  },
+  "id": 330,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lightspeed",
+  "identity": "Julie Power",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 100,
+  "durability": 55,
+  "power": 80,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16856"
+  },
+  "id": 331,
+  "Universe": "DC Comics",
+  "Superhero": "Livewire",
+  "identity": "Leslie Willis",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 60,
+  "speed": 90,
+  "durability": 95,
+  "power": 70,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16857"
+  },
+  "id": 332,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lizard",
+  "identity": "Curtis Connors",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 50,
+  "speed": 60,
+  "durability": 70,
+  "power": 75,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16858"
+  },
+  "id": 333,
+  "Universe": "Lego",
+  "Superhero": "Lloyd (The LEGO Ninjago Movie)",
+  "identity": "Lloyd Garmadon",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 70,
+  "durability": 40,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16859"
+  },
+  "id": 334,
+  "Universe": "DC Comics",
+  "Superhero": "Lobo",
+  "identity": "Lobo",
+  "gender": "Male",
+  "race": "Czarnian",
+  "alignment": "Neutral",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 55,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685a"
+  },
+  "id": 335,
+  "Universe": "Marvel Comics",
+  "Superhero": "Lockjaw",
+  "identity": "Lockjaw",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 30,
+  "speed": 90,
+  "durability": 50,
+  "power": 60,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685b"
+  },
+  "id": 336,
+  "Universe": "Marvel Comics",
+  "Superhero": "Luke Cage",
+  "identity": "Luke Cage",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 65,
+  "speed": 30,
+  "durability": 95,
+  "power": 45,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685c"
+  },
+  "id": 337,
+  "Universe": "George Lucas",
+  "Superhero": "Luke Skywalker",
+  "identity": "Luke Skywalker",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 40,
+  "speed": 40,
+  "durability": 25,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685d"
+  },
+  "id": 338,
+  "Universe": "Marvel Comics",
+  "Superhero": "Luna",
+  "identity": "Luna Maximoff",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 5,
+  "speed": 85,
+  "durability": 15,
+  "power": 55,
+  "combat": 15
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685e"
+  },
+  "id": 339,
+  "Universe": "Shueisha",
+  "Superhero": "Madara Uchiha",
+  "identity": "Uchiha Madara",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1685f"
+  },
+  "id": 340,
+  "Universe": "Marvel Comics",
+  "Superhero": "Maestro Hulk",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 85,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16860"
+  },
+  "id": 341,
+  "Universe": "DC Comics",
+  "Superhero": "Man-Bat",
+  "identity": "Robert Kirkland Langstrom",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 20,
+  "speed": 50,
+  "durability": 70,
+  "power": 35,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16861"
+  },
+  "id": 342,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mandarin",
+  "identity": "Khan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 25,
+  "durability": 30,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16862"
+  },
+  "id": 343,
+  "Universe": "Marvel Comics",
+  "Superhero": "Maria Hill (MCU)",
+  "identity": "Maria Hill",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 20,
+  "durability": 25,
+  "power": 25,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16863"
+  },
+  "id": 344,
+  "Universe": "Nintendo",
+  "Superhero": "Mario",
+  "identity": "Mario Mario",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16864"
+  },
+  "id": 345,
+  "Universe": "DC Comics",
+  "Superhero": "Martian Manhunter",
+  "identity": "J'onn J'onzz",
+  "gender": "Male",
+  "race": "Martian",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 95,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16865"
+  },
+  "id": 346,
+  "Universe": "Microsoft",
+  "Superhero": "Master Chief",
+  "identity": "John-117",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 75,
+  "speed": 35,
+  "durability": 80,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16866"
+  },
+  "id": 347,
+  "Universe": "Marvel Comics",
+  "Superhero": "Maximus (MCU)",
+  "identity": "Maximus Boltagon",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 20,
+  "durability": 20,
+  "power": 15,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16867"
+  },
+  "id": 348,
+  "Universe": "Marvel Comics",
+  "Superhero": "M'baku (MCU)",
+  "identity": "M'Baku",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 30,
+  "durability": 40,
+  "power": 40,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16868"
+  },
+  "id": 349,
+  "Universe": "Marvel Comics",
+  "Superhero": "Medusa (MCU)",
+  "identity": "Medusalith Amaquelin",
+  "gender": "Female",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 30,
+  "durability": 50,
+  "power": 50,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16869"
+  },
+  "id": 350,
+  "Universe": "Marvel Comics",
+  "Superhero": "Melinda May (MCU)",
+  "identity": "Melinda May",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 20,
+  "power": 20,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686a"
+  },
+  "id": 351,
+  "Universe": "DC Comics",
+  "Superhero": "Mera (New 52)",
+  "identity": "Mera",
+  "gender": "Female",
+  "race": "Atlantean",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 90,
+  "speed": 90,
+  "durability": 90,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686b"
+  },
+  "id": 352,
+  "Universe": "DC Comics",
+  "Superhero": "Mera",
+  "identity": "Mera",
+  "gender": "Female",
+  "race": "Atlantean",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 60,
+  "speed": 80,
+  "durability": 60,
+  "power": 90,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686c"
+  },
+  "id": 353,
+  "Universe": "DC Comics",
+  "Superhero": "Metallo",
+  "identity": "John Corben",
+  "gender": "Male",
+  "race": "Android",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 25,
+  "durability": 95,
+  "power": 85,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686d"
+  },
+  "id": 354,
+  "Universe": "DC Comics",
+  "Superhero": "Michael Demiurgos",
+  "identity": "Michael Demiurgos",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686e"
+  },
+  "id": 355,
+  "Universe": "Shueisha",
+  "Superhero": "Might Guy",
+  "identity": "Might Guy",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 80,
+  "durability": 95,
+  "power": 85,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1686f"
+  },
+  "id": 356,
+  "Universe": "DC Comics",
+  "Superhero": "Mirror Master (CW)",
+  "identity": "Sam Scudder",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 15,
+  "speed": 25,
+  "durability": 35,
+  "power": 55,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16870"
+  },
+  "id": 357,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mister Fantastic (FOX)",
+  "identity": "Reed Richards",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 35,
+  "durability": 55,
+  "power": 80,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16871"
+  },
+  "id": 358,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mister Fantastic",
+  "identity": "Reed Richards",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 25,
+  "durability": 85,
+  "power": 40,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16872"
+  },
+  "id": 359,
+  "Universe": "DC Comics",
+  "Superhero": "Mister Freeze",
+  "identity": "Victor Fries",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 10,
+  "durability": 70,
+  "power": 40,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16873"
+  },
+  "id": 360,
+  "Universe": "DC Comics",
+  "Superhero": "Mister Miracle",
+  "identity": "Scott Free",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 85,
+  "speed": 90,
+  "durability": 85,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16874"
+  },
+  "id": 361,
+  "Universe": "DC Comics",
+  "Superhero": "Mister Mxyzptlk",
+  "identity": "Mr. Mxyzptlk",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16875"
+  },
+  "id": 362,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mister Sinister",
+  "identity": "Nathaniel Essex",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 50,
+  "speed": 45,
+  "durability": 90,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16876"
+  },
+  "id": 363,
+  "Universe": "DC Comics",
+  "Superhero": "Mister Terrific (CW)",
+  "identity": "Curtis Holt",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 40,
+  "durability": 35,
+  "power": 50,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16877"
+  },
+  "id": 364,
+  "Universe": "Marvel Comics",
+  "Superhero": "Misty Knight (MCU)",
+  "identity": "Mercedes Kelly",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 35,
+  "durability": 35,
+  "power": 50,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16878"
+  },
+  "id": 365,
+  "Universe": "Marvel Comics",
+  "Superhero": "Misty Knight",
+  "identity": "Mercedes 'Misty' Knight",
+  "gender": "Female",
+  "race": "Cyborg",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 60,
+  "speed": 25,
+  "durability": 45,
+  "power": 65,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16879"
+  },
+  "id": 366,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mockingbird (MCU)",
+  "identity": "Barbara Morse",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 55,
+  "durability": 55,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687a"
+  },
+  "id": 367,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mockingbird",
+  "identity": "Barbara Morse",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 30,
+  "speed": 40,
+  "durability": 20,
+  "power": 50,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687b"
+  },
+  "id": 368,
+  "Universe": "DC Comics",
+  "Superhero": "Mongul The Elder",
+  "identity": "Mongul",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 60,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687c"
+  },
+  "id": 369,
+  "Universe": "Marvel Comics",
+  "Superhero": "Moon Knight",
+  "identity": "Marc Spector",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 35,
+  "speed": 25,
+  "durability": 40,
+  "power": 30,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687d"
+  },
+  "id": 370,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Mr Incredible",
+  "identity": "Robert Parr",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 85,
+  "speed": 35,
+  "durability": 95,
+  "power": 30,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687e"
+  },
+  "id": 371,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mysterio",
+  "identity": "Quentin Beck",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 15,
+  "durability": 40,
+  "power": 80,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1687f"
+  },
+  "id": 372,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mystique (FOX)",
+  "identity": "Raven Darkhölme",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 25,
+  "speed": 50,
+  "durability": 50,
+  "power": 95,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16880"
+  },
+  "id": 373,
+  "Universe": "Marvel Comics",
+  "Superhero": "Mystique",
+  "identity": "Raven Darkholme",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 50,
+  "durability": 50,
+  "power": 75,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16881"
+  },
+  "id": 374,
+  "Universe": "Shueisha",
+  "Superhero": "Nagato Uzumaki",
+  "identity": "Nagato Uzumaki",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 55,
+  "speed": 50,
+  "durability": 80,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16882"
+  },
+  "id": 375,
+  "Universe": "Marvel Comics",
+  "Superhero": "Namor",
+  "identity": "Namor McKenzie",
+  "gender": "Male",
+  "race": "Atlantean",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 95,
+  "speed": 60,
+  "durability": 70,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16883"
+  },
+  "id": 376,
+  "Universe": "Shueisha",
+  "Superhero": "Naruto Uzumaki",
+  "identity": "Uzumaki Naruto",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16884"
+  },
+  "id": 377,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nebula (MCU)",
+  "identity": "Nebula",
+  "gender": "Female",
+  "race": "Titanian",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 50,
+  "durability": 55,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16885"
+  },
+  "id": 378,
+  "Universe": "Marvel Comics",
+  "Superhero": "Negasonic Teenage Warhead (FOX",
+  "identity": "Ellie Phimister",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 25,
+  "durability": 15,
+  "power": 55,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16886"
+  },
+  "id": 379,
+  "Universe": "Marvel Comics",
+  "Superhero": "Negasonic Teenage Warhead",
+  "identity": "Ellie Phimister",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 5,
+  "speed": 10,
+  "durability": 10,
+  "power": 45,
+  "combat": 35
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16887"
+  },
+  "id": 380,
+  "Universe": "Shueisha",
+  "Superhero": "Neji",
+  "identity": "Neji Hyuga",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 60,
+  "durability": 35,
+  "power": 65,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16888"
+  },
+  "id": 381,
+  "Universe": "DC Comics",
+  "Superhero": "Nekron",
+  "identity": "Nekron",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 75,
+  "durability": 95,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16889"
+  },
+  "id": 382,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nick Fury (MCU)",
+  "identity": "Nicholas Fury",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 30,
+  "durability": 45,
+  "power": 35,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688a"
+  },
+  "id": 383,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nick Fury",
+  "identity": "Nicholas Joseph Fury",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 25,
+  "durability": 40,
+  "power": 25,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688b"
+  },
+  "id": 384,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nightcrawler (FOX)",
+  "identity": "Kurt Wagner",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 60,
+  "durability": 20,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688c"
+  },
+  "id": 385,
+  "Universe": "DC Comics",
+  "Superhero": "Nightshade",
+  "identity": "Eve Eden",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 35,
+  "durability": 65,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688d"
+  },
+  "id": 386,
+  "Universe": "DC Comics",
+  "Superhero": "Nightwing (Arkham)",
+  "identity": "Dick Grayson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 80,
+  "durability": 45,
+  "power": 50,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688e"
+  },
+  "id": 387,
+  "Universe": "DC Comics",
+  "Superhero": "Nite Owl II",
+  "identity": "Daniel Dreiberg",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 25,
+  "speed": 40,
+  "durability": 40,
+  "power": 60,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1688f"
+  },
+  "id": 388,
+  "Universe": "DC Comics",
+  "Superhero": "Nite Owl",
+  "identity": "Hollis Mason",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 25,
+  "speed": 35,
+  "durability": 45,
+  "power": 45,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16890"
+  },
+  "id": 389,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nobu (MCU)",
+  "identity": "Nobu Yoshioka",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 50,
+  "durability": 50,
+  "power": 60,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16891"
+  },
+  "id": 390,
+  "Universe": "Marvel Comics",
+  "Superhero": "Nomad (MCU)",
+  "identity": "Steve Rogers",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 35,
+  "speed": 60,
+  "durability": 65,
+  "power": 65,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16892"
+  },
+  "id": 391,
+  "Universe": "Lego",
+  "Superhero": "Nya (The LEGO Ninjago Movie)",
+  "identity": "Nya",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 20,
+  "durability": 15,
+  "power": 80,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16893"
+  },
+  "id": 392,
+  "Universe": "Shueisha",
+  "Superhero": "Obito Uchiha",
+  "identity": "Uchiha Obito",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 90,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16894"
+  },
+  "id": 393,
+  "Universe": "DC Comics",
+  "Superhero": "Ocean Master",
+  "identity": "Orm Curry Marius",
+  "gender": "Male",
+  "race": "Atlantean",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 75,
+  "speed": 70,
+  "durability": 75,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16895"
+  },
+  "id": 394,
+  "Universe": "Marvel Comics",
+  "Superhero": "Old Man Logan (FOX)",
+  "identity": "James Howlett",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 35,
+  "durability": 75,
+  "power": 75,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16896"
+  },
+  "id": 395,
+  "Universe": "Marvel Comics",
+  "Superhero": "Omega",
+  "identity": "The Omega",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 80,
+  "durability": 85,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16897"
+  },
+  "id": 396,
+  "Universe": "Shueisha",
+  "Superhero": "One Punch Man",
+  "identity": "Saitama",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 60,
+  "strength": 100,
+  "speed": 95,
+  "durability": 100,
+  "power": 65,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16898"
+  },
+  "id": 397,
+  "Universe": "Marvel Comics",
+  "Superhero": "Onslaught",
+  "identity": "Onslaught",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 85,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16899"
+  },
+  "id": 398,
+  "Universe": "DC Comics",
+  "Superhero": "Owlman",
+  "identity": "Thomas Wayne Jr.",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 30,
+  "durability": 50,
+  "power": 55,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689a"
+  },
+  "id": 399,
+  "Universe": "DC Comics",
+  "Superhero": "Pandora",
+  "identity": "Pandora",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 60,
+  "durability": 80,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689b"
+  },
+  "id": 400,
+  "Universe": "Marvel Comics",
+  "Superhero": "Peggy Carter (MCU)",
+  "identity": "Margaret Carter",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 35,
+  "durability": 40,
+  "power": 35,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689c"
+  },
+  "id": 401,
+  "Universe": "DC Comics",
+  "Superhero": "Penguin",
+  "identity": "Oswald Cobblepot",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 15,
+  "durability": 35,
+  "power": 45,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689d"
+  },
+  "id": 402,
+  "Universe": "DC Comics",
+  "Superhero": "Pied Piper (CW)",
+  "identity": "Hartley Rathaway",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 15,
+  "power": 55,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689e"
+  },
+  "id": 403,
+  "Universe": "Marvel Comics",
+  "Superhero": "Plantman",
+  "identity": "Samuel Smithers",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 60,
+  "speed": 25,
+  "durability": 55,
+  "power": 60,
+  "combat": 25
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1689f"
+  },
+  "id": 404,
+  "Universe": "DC Comics",
+  "Superhero": "Plastic Man",
+  "identity": "Patrick O'Brian",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 65,
+  "speed": 25,
+  "durability": 100,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a0"
+  },
+  "id": 405,
+  "Universe": "DC Comics",
+  "Superhero": "Poison Ivy (Arkham)",
+  "identity": "Pamela Isley",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 55,
+  "durability": 70,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a1"
+  },
+  "id": 406,
+  "Universe": "DC Comics",
+  "Superhero": "Poison Ivy",
+  "identity": "Pamela Isley",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 30,
+  "durability": 70,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a2"
+  },
+  "id": 407,
+  "Universe": "Marvel Comics",
+  "Superhero": "Polaris (Fox)",
+  "identity": "Lorna Dane",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 30,
+  "durability": 25,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a3"
+  },
+  "id": 408,
+  "Universe": "Marvel Comics",
+  "Superhero": "Polaris",
+  "identity": "Lorna Dane",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 75,
+  "speed": 40,
+  "durability": 50,
+  "power": 100,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a4"
+  },
+  "id": 409,
+  "Universe": "DC Comics",
+  "Superhero": "Power Girl (New 52)",
+  "identity": "Kara Zor-L",
+  "gender": "Female",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 90,
+  "durability": 100,
+  "power": 75,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a5"
+  },
+  "id": 410,
+  "Universe": "DC Comics",
+  "Superhero": "Power Girl",
+  "identity": "Kara Zor-L",
+  "gender": "Female",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a6"
+  },
+  "id": 411,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Predator",
+  "identity": "Yautja",
+  "gender": "Male",
+  "race": "Yautja",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 25,
+  "durability": 85,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a7"
+  },
+  "id": 412,
+  "Universe": "J. K. Rowling",
+  "Superhero": "Professor Dumbledore",
+  "identity": "Albus Dumbledore",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 5,
+  "speed": 65,
+  "durability": 65,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a8"
+  },
+  "id": 413,
+  "Universe": "Marvel Comics",
+  "Superhero": "Professor X (FOX)",
+  "identity": "Charles Francis Xavier",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 10,
+  "durability": 15,
+  "power": 100,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168a9"
+  },
+  "id": 414,
+  "Universe": "DC Comics",
+  "Superhero": "Professor Zoom",
+  "identity": "Eobard Thawne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 100,
+  "durability": 20,
+  "power": 85,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168aa"
+  },
+  "id": 415,
+  "Universe": "DC Comics",
+  "Superhero": "Prometheus (CW)",
+  "identity": "Adrian Chase",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 45,
+  "durability": 50,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ab"
+  },
+  "id": 416,
+  "Universe": "Marvel Comics",
+  "Superhero": "Proxima Midnight (MCU)",
+  "identity": "Proxima Midnight",
+  "gender": "Female",
+  "race": "Alien",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 55,
+  "speed": 65,
+  "durability": 65,
+  "power": 70,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ac"
+  },
+  "id": 417,
+  "Universe": "Marvel Comics",
+  "Superhero": "Psylocke",
+  "identity": "Elizabeth Braddock",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 35,
+  "speed": 25,
+  "durability": 40,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ad"
+  },
+  "id": 418,
+  "Universe": "Marvel Comics",
+  "Superhero": "Punisher",
+  "identity": "Frank Castle",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 20,
+  "durability": 45,
+  "power": 40,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ae"
+  },
+  "id": 419,
+  "Universe": "Marvel Comics",
+  "Superhero": "Purple Man",
+  "identity": "Zebediah Killgrave",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 10,
+  "durability": 30,
+  "power": 90,
+  "combat": 10
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168af"
+  },
+  "id": 420,
+  "Universe": "Marvel Comics",
+  "Superhero": "Pyro (FOX)",
+  "identity": "St. John Allerdyce",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 15,
+  "durability": 15,
+  "power": 45,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b0"
+  },
+  "id": 421,
+  "Universe": "DC Comics",
+  "Superhero": "Question",
+  "identity": "Charles Szasz",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 35,
+  "power": 25,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b1"
+  },
+  "id": 422,
+  "Universe": "Marvel Comics",
+  "Superhero": "Quicksilver",
+  "identity": "Pietro Django Maximoff",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 100,
+  "durability": 60,
+  "power": 80,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b2"
+  },
+  "id": 423,
+  "Universe": "DC Comics",
+  "Superhero": "Ragman (CW)",
+  "identity": "Rory Regan",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 35,
+  "durability": 90,
+  "power": 75,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b3"
+  },
+  "id": 424,
+  "Universe": "DC Comics",
+  "Superhero": "Ra's Al Ghul (CW)",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 50,
+  "durability": 50,
+  "power": 60,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b4"
+  },
+  "id": 425,
+  "Universe": "DC Comics",
+  "Superhero": "Ra's Al Ghul",
+  "identity": "Ra's Al Ghul",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 30,
+  "durability": 40,
+  "power": 25,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b5"
+  },
+  "id": 426,
+  "Universe": "DC Comics",
+  "Superhero": "Raven (Titans)",
+  "identity": "Rachel Roth",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 10,
+  "speed": 30,
+  "durability": 30,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b6"
+  },
+  "id": 427,
+  "Universe": "Lego",
+  "Superhero": "Ray",
+  "identity": "Ray",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 25,
+  "durability": 30,
+  "power": 85,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b7"
+  },
+  "id": 428,
+  "Universe": "DC Comics",
+  "Superhero": "Red Arrow",
+  "identity": "Roy Harper",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 25,
+  "durability": 20,
+  "power": 25,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b8"
+  },
+  "id": 429,
+  "Universe": "DC Comics",
+  "Superhero": "Red Hood (New 52)",
+  "identity": "Jason Todd",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 30,
+  "durability": 45,
+  "power": 40,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168b9"
+  },
+  "id": 430,
+  "Universe": "Marvel Comics",
+  "Superhero": "Red Hulk (Ghost Rider) (Venom)",
+  "identity": "Thaddeus Ross",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ba"
+  },
+  "id": 431,
+  "Universe": "Marvel Comics",
+  "Superhero": "Red Hulk",
+  "identity": "Thaddeus E. Ross",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 45,
+  "durability": 85,
+  "power": 80,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168bb"
+  },
+  "id": 432,
+  "Universe": "Marvel Comics",
+  "Superhero": "Red Skull (MCU)",
+  "identity": "Johann Shmidt",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 45,
+  "speed": 40,
+  "durability": 40,
+  "power": 95,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168bc"
+  },
+  "id": 433,
+  "Universe": "George Lucas",
+  "Superhero": "Rey",
+  "identity": "Rey",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 65,
+  "strength": 35,
+  "speed": 25,
+  "durability": 25,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168bd"
+  },
+  "id": 434,
+  "Universe": "Marvel Comics",
+  "Superhero": "Rhino",
+  "identity": "Aleksei Mikhailovich Sytsevich",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Bad",
+  "intelligence": 65,
+  "strength": 80,
+  "speed": 45,
+  "durability": 90,
+  "power": 35,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168be"
+  },
+  "id": 435,
+  "Universe": "Cartoon Network",
+  "Superhero": "Rick Sanchez",
+  "identity": "Rick Sanchez",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 55,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168bf"
+  },
+  "id": 436,
+  "Universe": "Marvel Comics",
+  "Superhero": "Riot (SONY)",
+  "identity": "Carlton Drake",
+  "gender": "Male",
+  "race": "Symbiote",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 70,
+  "speed": 60,
+  "durability": 90,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c0"
+  },
+  "id": 437,
+  "Universe": "DC Comics",
+  "Superhero": "Robin II",
+  "identity": "Jason Todd",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 30,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c1"
+  },
+  "id": 438,
+  "Universe": "DC Comics",
+  "Superhero": "Robin (Titans)",
+  "identity": "Jason Todd",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 45,
+  "durability": 45,
+  "power": 40,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c2"
+  },
+  "id": 439,
+  "Universe": "DC Comics",
+  "Superhero": "Robin V",
+  "identity": "Damian Wayne",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 35,
+  "durability": 15,
+  "power": 30,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c3"
+  },
+  "id": 440,
+  "Universe": "DC Comics",
+  "Superhero": "Robin VI",
+  "identity": "Carrie Kelley",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 25,
+  "durability": 20,
+  "power": 15,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c4"
+  },
+  "id": 441,
+  "Universe": "DC Comics",
+  "Superhero": "Robin",
+  "identity": "Dick Grayson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 30,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c5"
+  },
+  "id": 442,
+  "Universe": "Shueisha",
+  "Superhero": "Rock Lee",
+  "identity": "Rock Lee",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 90,
+  "speed": 50,
+  "durability": 70,
+  "power": 75,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c6"
+  },
+  "id": 443,
+  "Universe": "Marvel Comics",
+  "Superhero": "Rocket Raccoon (MCU)",
+  "identity": "Rocket Raccoon",
+  "gender": "Male",
+  "race": "Animal",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 15,
+  "speed": 60,
+  "durability": 45,
+  "power": 45,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c7"
+  },
+  "id": 444,
+  "Universe": "Marvel Comics",
+  "Superhero": "Rocket Raccoon",
+  "identity": "Rocket Raccoon",
+  "gender": "Male",
+  "race": "Animal",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 5,
+  "speed": 25,
+  "durability": 30,
+  "power": 30,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c8"
+  },
+  "id": 445,
+  "Universe": "Marvel Comics",
+  "Superhero": "Rogue (FOX)",
+  "identity": "Anna Marie",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 45,
+  "durability": 45,
+  "power": 90,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168c9"
+  },
+  "id": 446,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ronin (MCU)",
+  "identity": "Clint Barton",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 40,
+  "durability": 40,
+  "power": 45,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ca"
+  },
+  "id": 447,
+  "Universe": "Lego",
+  "Superhero": "Ronin (Ninjago)",
+  "identity": "Ronin",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 15,
+  "power": 75,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168cb"
+  },
+  "id": 448,
+  "Universe": "DC Comics",
+  "Superhero": "Rorschach",
+  "identity": "Walter Joseph Kovacs",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 30,
+  "durability": 20,
+  "power": 25,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168cc"
+  },
+  "id": 449,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sabretooth (FOX)",
+  "identity": "Victor Creed",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 70,
+  "speed": 65,
+  "durability": 90,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168cd"
+  },
+  "id": 450,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sabretooth",
+  "identity": "Victor Creed",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 50,
+  "speed": 40,
+  "durability": 90,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ce"
+  },
+  "id": 451,
+  "Universe": "Shueisha",
+  "Superhero": "Sakura Haruno",
+  "identity": "Haruno Sakura",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 100,
+  "speed": 100,
+  "durability": 75,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168cf"
+  },
+  "id": 452,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sandman (SONY)",
+  "identity": "Flint Marko",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 75,
+  "speed": 70,
+  "durability": 95,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d0"
+  },
+  "id": 453,
+  "Universe": "DC Comics",
+  "Superhero": "Sandman",
+  "identity": "Wesley Dodds",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 40,
+  "speed": 35,
+  "durability": 45,
+  "power": 65,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d1"
+  },
+  "id": 454,
+  "Universe": "Shueisha",
+  "Superhero": "Sasuke Uchiha",
+  "identity": "Uchiha Sasuke",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d2"
+  },
+  "id": 455,
+  "Universe": "DC Comics",
+  "Superhero": "Saturn Girl (CW)",
+  "identity": "Imra Ardeen",
+  "gender": "Female",
+  "race": "Titanian",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 35,
+  "speed": 30,
+  "durability": 40,
+  "power": 90,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d3"
+  },
+  "id": 456,
+  "Universe": "Marvel Comics",
+  "Superhero": "Scarlet Spider II",
+  "identity": "Kaine Parker",
+  "gender": "Male",
+  "race": "Clone",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 55,
+  "speed": 60,
+  "durability": 40,
+  "power": 35,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d4"
+  },
+  "id": 457,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sebastian Shaw (FOX)",
+  "identity": "Sebastian Hiram Shaw",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 75,
+  "speed": 25,
+  "durability": 90,
+  "power": 85,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d5"
+  },
+  "id": 458,
+  "Universe": "IDW Publishing",
+  "Superhero": "Selene",
+  "identity": "Selene",
+  "gender": "Female",
+  "race": "Vampire",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 85,
+  "speed": 65,
+  "durability": 75,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d6"
+  },
+  "id": 459,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sentry",
+  "identity": "Robert Reynolds",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 45
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d7"
+  },
+  "id": 460,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shades (MCU)",
+  "identity": "Herman Enrique Salazar Alvarez",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 30,
+  "durability": 40,
+  "power": 35,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d8"
+  },
+  "id": 461,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shadowcat (FOX)",
+  "identity": "Katherine Anne Pryde",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 45,
+  "durability": 55,
+  "power": 45,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168d9"
+  },
+  "id": 462,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shadowcat",
+  "identity": "Kitty Pryde",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 20,
+  "durability": 25,
+  "power": 70,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168da"
+  },
+  "id": 463,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shang-Chi",
+  "identity": "Shang-Chi",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 30,
+  "durability": 50,
+  "power": 30,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168db"
+  },
+  "id": 464,
+  "Universe": "Mortal Kombat",
+  "Superhero": "Shao Kahn",
+  "identity": "Shao Kahn",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 50,
+  "strength": 50,
+  "speed": 75,
+  "durability": 75,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168dc"
+  },
+  "id": 465,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sharon Carter",
+  "identity": "Sharon Carter",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 20,
+  "durability": 40,
+  "power": 55,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168dd"
+  },
+  "id": 466,
+  "Universe": "DC Comics",
+  "Superhero": "Shazam",
+  "identity": "Billy Batson",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 90,
+  "durability": 95,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168de"
+  },
+  "id": 467,
+  "Universe": "Marvel Comics",
+  "Superhero": "She-Hulk",
+  "identity": "Jennifer Walters",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 80,
+  "durability": 100,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168df"
+  },
+  "id": 468,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Sherlock Holmes",
+  "identity": "Sherlock Holmes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 35,
+  "speed": 30,
+  "durability": 35,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e0"
+  },
+  "id": 469,
+  "Universe": "Shueisha",
+  "Superhero": "Shikamaru",
+  "identity": "Shikamaru Nara",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 50,
+  "durability": 75,
+  "power": 85,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e1"
+  },
+  "id": 470,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shocker",
+  "identity": "Herman Schultz",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 25,
+  "durability": 70,
+  "power": 80,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e2"
+  },
+  "id": 471,
+  "Universe": "Marvel Comics",
+  "Superhero": "Shuri (MCU)",
+  "identity": "Shuri",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 45,
+  "durability": 100,
+  "power": 40,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e3"
+  },
+  "id": 472,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sif (MCU)",
+  "identity": "Sif",
+  "gender": "Female",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 95,
+  "speed": 70,
+  "durability": 85,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e4"
+  },
+  "id": 473,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sif",
+  "identity": "Sif",
+  "gender": "Female",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 90,
+  "speed": 65,
+  "durability": 80,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e5"
+  },
+  "id": 474,
+  "Universe": "Marvel Comics",
+  "Superhero": "Silk",
+  "identity": "Cindy Moon",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 50,
+  "speed": 70,
+  "durability": 70,
+  "power": 70,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e6"
+  },
+  "id": 475,
+  "Universe": "DC Comics",
+  "Superhero": "Silver Banshee",
+  "identity": "Siobhan McDougal",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 15,
+  "speed": 75,
+  "durability": 75,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e7"
+  },
+  "id": 476,
+  "Universe": "Marvel Comics",
+  "Superhero": "Silver Samurai (FOX)",
+  "identity": "Ichirō Yashida",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 60,
+  "speed": 30,
+  "durability": 80,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e8"
+  },
+  "id": 477,
+  "Universe": "Marvel Comics",
+  "Superhero": "Silver Surfer",
+  "identity": "Norrin Radd",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 100,
+  "speed": 100,
+  "durability": 90,
+  "power": 100,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168e9"
+  },
+  "id": 478,
+  "Universe": "DC Comics",
+  "Superhero": "Solomon Grundy",
+  "identity": "Cyrus Gold",
+  "gender": "Male",
+  "race": "Zombie",
+  "alignment": "Bad",
+  "intelligence": 55,
+  "strength": 95,
+  "speed": 15,
+  "durability": 100,
+  "power": 90,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ea"
+  },
+  "id": 479,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Solomon Kane",
+  "identity": "Solomon Kane",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 15,
+  "speed": 30,
+  "durability": 45,
+  "power": 50,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168eb"
+  },
+  "id": 480,
+  "Universe": "DC Comics",
+  "Superhero": "Space Ghost",
+  "identity": "Thaddeus Bach",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 20,
+  "speed": 35,
+  "durability": 40,
+  "power": 95,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ec"
+  },
+  "id": 481,
+  "Universe": "DC Comics",
+  "Superhero": "Spartan",
+  "identity": "John Diggle",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 35,
+  "durability": 45,
+  "power": 50,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ed"
+  },
+  "id": 482,
+  "Universe": "Image Comics",
+  "Superhero": "Spawn",
+  "identity": "Al Simmons",
+  "gender": "Male",
+  "race": "Demon",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 70,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ee"
+  },
+  "id": 483,
+  "Universe": "DC Comics",
+  "Superhero": "Speedy",
+  "identity": "Thea Queen",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 5,
+  "speed": 35,
+  "durability": 20,
+  "power": 25,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ef"
+  },
+  "id": 484,
+  "Universe": "Marvel Comics",
+  "Superhero": "Spider-Man (Black) (Raimi)",
+  "identity": "Peter Benjamin Parker",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 65,
+  "durability": 70,
+  "power": 70,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f0"
+  },
+  "id": 485,
+  "Universe": "Marvel Comics",
+  "Superhero": "Spider-Man Noir",
+  "identity": "Peter Parker",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 70,
+  "durability": 75,
+  "power": 75,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f1"
+  },
+  "id": 486,
+  "Universe": "Marvel Comics",
+  "Superhero": "Spider-Woman",
+  "identity": "Jessica Drew",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 40,
+  "speed": 40,
+  "durability": 60,
+  "power": 70,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f2"
+  },
+  "id": 487,
+  "Universe": "Marvel Comics",
+  "Superhero": "Spyke",
+  "identity": "Evan Daniels",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 15,
+  "durability": 60,
+  "power": 50,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f3"
+  },
+  "id": 488,
+  "Universe": "Marvel Comics",
+  "Superhero": "Star-Lord",
+  "identity": "Peter Quill",
+  "gender": "Male",
+  "race": "Human-Spartoi",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 20,
+  "speed": 35,
+  "durability": 50,
+  "power": 25,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f4"
+  },
+  "id": 489,
+  "Universe": "DC Comics",
+  "Superhero": "Star Sapphire",
+  "identity": "Carol Ferris",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 75,
+  "durability": 70,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f5"
+  },
+  "id": 490,
+  "Universe": "DC Comics",
+  "Superhero": "Starfire (Titans)",
+  "identity": "Koriand'r",
+  "gender": "Female",
+  "race": "Tamaranean",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 50,
+  "speed": 40,
+  "durability": 70,
+  "power": 75,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f6"
+  },
+  "id": 491,
+  "Universe": "DC Comics",
+  "Superhero": "Starfire",
+  "identity": "Koriand'r",
+  "gender": "Female",
+  "race": "Tamaranean",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 90,
+  "speed": 100,
+  "durability": 85,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f7"
+  },
+  "id": 492,
+  "Universe": "DC Comics",
+  "Superhero": "Stargirl",
+  "identity": "Courtney Whitmore",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 50,
+  "durability": 90,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f8"
+  },
+  "id": 493,
+  "Universe": "DC Comics",
+  "Superhero": "Starling",
+  "identity": "Evelyn Crawford",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 15,
+  "durability": 25,
+  "power": 20,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168f9"
+  },
+  "id": 494,
+  "Universe": "Marvel Comics",
+  "Superhero": "Steel Serpent (MCU)",
+  "identity": "Davos",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 70,
+  "strength": 15,
+  "speed": 50,
+  "durability": 40,
+  "power": 45,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168fa"
+  },
+  "id": 495,
+  "Universe": "DC Comics",
+  "Superhero": "Steel",
+  "identity": "John Irons",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 80,
+  "speed": 55,
+  "durability": 90,
+  "power": 65,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168fb"
+  },
+  "id": 496,
+  "Universe": "Marvel Comics",
+  "Superhero": "Stick (MCU)",
+  "identity": "Unknown",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 40,
+  "durability": 40,
+  "power": 50,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168fc"
+  },
+  "id": 497,
+  "Universe": "Marvel Comics",
+  "Superhero": "Storm (FOX)",
+  "identity": "Ororo Munroe",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 25,
+  "speed": 65,
+  "durability": 45,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168fd"
+  },
+  "id": 498,
+  "Universe": "DC Comics",
+  "Superhero": "Strange Visitor Superman",
+  "identity": "Kal-El",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168fe"
+  },
+  "id": 499,
+  "Universe": "Marvel Comics",
+  "Superhero": "Sunspot",
+  "identity": "Roberto DaCosta",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 65,
+  "speed": 35,
+  "durability": 25,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd168ff"
+  },
+  "id": 500,
+  "Universe": "DC Comics",
+  "Superhero": "Superboy-Prime",
+  "identity": "Kal-El",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16900"
+  },
+  "id": 501,
+  "Universe": "DC Comics",
+  "Superhero": "Supergirl (Injustice)",
+  "identity": "Kara Zor-El",
+  "gender": "Female",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16901"
+  },
+  "id": 502,
+  "Universe": "DC Comics",
+  "Superhero": "Superman (2006)",
+  "identity": "Kal-El",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16902"
+  },
+  "id": 503,
+  "Universe": "DC Comics",
+  "Superhero": "Superman (Smallville)",
+  "identity": "Kal-El",
+  "gender": "Male",
+  "race": "Kryptonian",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16903"
+  },
+  "id": 504,
+  "Universe": "DC Comics",
+  "Superhero": "Swamp Thing",
+  "identity": "Alec Holland",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 95,
+  "speed": 25,
+  "durability": 100,
+  "power": 100,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16904"
+  },
+  "id": 505,
+  "Universe": "Marvel Comics",
+  "Superhero": "Swarm",
+  "identity": "Fritz von Meyer",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 50,
+  "durability": 90,
+  "power": 40,
+  "combat": 35
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16905"
+  },
+  "id": 506,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "T-X",
+  "identity": "Cyberdyne Systems Series X Terminator",
+  "gender": "Female",
+  "race": "Cyborg",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 65,
+  "speed": 30,
+  "durability": 85,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16906"
+  },
+  "id": 507,
+  "Universe": "Marvel Comics",
+  "Superhero": "Taskmaster",
+  "identity": "Tony Masters",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 50,
+  "durability": 20,
+  "power": 65,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16907"
+  },
+  "id": 508,
+  "Universe": "Marvel Comics",
+  "Superhero": "Thanos",
+  "identity": "Thanos",
+  "gender": "Male",
+  "race": "Eternal",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 100,
+  "speed": 75,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16908"
+  },
+  "id": 509,
+  "Universe": "DC Comics",
+  "Superhero": "The Batman Of Zur-En-Arrh",
+  "identity": "Tlano",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 30,
+  "speed": 45,
+  "durability": 50,
+  "power": 60,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16909"
+  },
+  "id": 510,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "The Boy",
+  "identity": "Number Five",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 5,
+  "speed": 10,
+  "durability": 10,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690a"
+  },
+  "id": 511,
+  "Universe": "DC Comics",
+  "Superhero": "The Comedian",
+  "identity": "Edward Morgen Blake",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 15,
+  "durability": 10,
+  "power": 10,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690b"
+  },
+  "id": 512,
+  "Universe": "Image Comics",
+  "Superhero": "The Crow",
+  "identity": "Eric Draven",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690c"
+  },
+  "id": 513,
+  "Universe": "Marvel Comics",
+  "Superhero": "The Executioner (MCU)",
+  "identity": "Skurge",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Neutral",
+  "intelligence": 70,
+  "strength": 65,
+  "speed": 60,
+  "durability": 75,
+  "power": 70,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690d"
+  },
+  "id": 514,
+  "Universe": "DC Comics",
+  "Superhero": "The Flash (CW)",
+  "identity": "Jay Garrick",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 30,
+  "speed": 100,
+  "durability": 70,
+  "power": 100,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690e"
+  },
+  "id": 515,
+  "Universe": "Marvel Comics",
+  "Superhero": "The Keeper",
+  "identity": "Norrin Radd",
+  "gender": "Male",
+  "race": "Alien",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1690f"
+  },
+  "id": 516,
+  "Universe": "DC Comics",
+  "Superhero": "The Ray (CW)",
+  "identity": "Ray Terrill",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 70,
+  "speed": 95,
+  "durability": 100,
+  "power": 100,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16910"
+  },
+  "id": 517,
+  "Universe": "DC Comics",
+  "Superhero": "The Rival (CW)",
+  "identity": "Edward Clariss",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 95,
+  "durability": 70,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16911"
+  },
+  "id": 518,
+  "Universe": "DC Comics",
+  "Superhero": "The Scarecrow (Gotham)",
+  "identity": "Jonathan Crane",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 35,
+  "durability": 30,
+  "power": 40,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16912"
+  },
+  "id": 519,
+  "Universe": "Marvel Comics",
+  "Superhero": "The Shocker (MCU)",
+  "identity": "Herman Schultz",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 25,
+  "durability": 70,
+  "power": 60,
+  "combat": 60
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16913"
+  },
+  "id": 520,
+  "Universe": "Marvel Comics",
+  "Superhero": "The Thing (FOX)",
+  "identity": "Ben Grimm",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 80,
+  "speed": 50,
+  "durability": 90,
+  "power": 65,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16914"
+  },
+  "id": 521,
+  "Universe": "DC Comics",
+  "Superhero": "The Thinker (CW)",
+  "identity": "Clifford DeVoe",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 30,
+  "durability": 30,
+  "power": 100,
+  "combat": 50
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16915"
+  },
+  "id": 522,
+  "Universe": "Marvel Comics",
+  "Superhero": "The Wasp",
+  "identity": "Janet van Dyne",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 60,
+  "durability": 50,
+  "power": 30,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16916"
+  },
+  "id": 523,
+  "Universe": "Marvel Comics",
+  "Superhero": "Thor Girl",
+  "identity": "Tarene",
+  "gender": "Female",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 85,
+  "speed": 70,
+  "durability": 85,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16917"
+  },
+  "id": 524,
+  "Universe": "Marvel Comics",
+  "Superhero": "Thor (Odin Force)",
+  "identity": "Thor Odinson",
+  "gender": "Male",
+  "race": "God / Eternal",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 100,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16918"
+  },
+  "id": 525,
+  "Universe": "Marvel Comics",
+  "Superhero": "Titania",
+  "identity": "Mary McPherran",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 80,
+  "speed": 90,
+  "durability": 95,
+  "power": 75,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16919"
+  },
+  "id": 526,
+  "Universe": "Marvel Comics",
+  "Superhero": "Toad (FOX)",
+  "identity": "Mortimer Toynbee",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 60,
+  "durability": 55,
+  "power": 65,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691a"
+  },
+  "id": 527,
+  "Universe": "Marvel Comics",
+  "Superhero": "Toad",
+  "identity": "Mortimer Toynbee",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Neutral",
+  "intelligence": 75,
+  "strength": 35,
+  "speed": 60,
+  "durability": 55,
+  "power": 70,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691b"
+  },
+  "id": 528,
+  "Universe": "Marvel Comics",
+  "Superhero": "Toxin",
+  "identity": "Eddie Brock",
+  "gender": "Male",
+  "race": "Symbiote",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 80,
+  "speed": 40,
+  "durability": 85,
+  "power": 95,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691c"
+  },
+  "id": 529,
+  "Universe": "DC Comics",
+  "Superhero": "Toymaster",
+  "identity": "Hiro Okamura",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 20,
+  "durability": 50,
+  "power": 60,
+  "combat": 40
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691d"
+  },
+  "id": 530,
+  "Universe": "Marvel Comics",
+  "Superhero": "Triton",
+  "identity": "Triton",
+  "gender": "Male",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 65,
+  "speed": 50,
+  "durability": 65,
+  "power": 35,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691e"
+  },
+  "id": 531,
+  "Universe": "DC Comics",
+  "Superhero": "Two-Face",
+  "identity": "Harvey Dent",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 10,
+  "speed": 15,
+  "durability": 15,
+  "power": 30,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1691f"
+  },
+  "id": 532,
+  "Universe": "Marvel Comics",
+  "Superhero": "Typhoid Mary (MCU)",
+  "identity": "Mary Walker",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Neutral",
+  "intelligence": 90,
+  "strength": 15,
+  "speed": 40,
+  "durability": 35,
+  "power": 45,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16920"
+  },
+  "id": 533,
+  "Universe": "Marvel Comics",
+  "Superhero": "Ultimo",
+  "identity": "Doomsday Device",
+  "gender": "Male",
+  "race": "Android",
+  "alignment": "Bad",
+  "intelligence": 50,
+  "strength": 100,
+  "speed": 50,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16921"
+  },
+  "id": 534,
+  "Universe": "Marvel Comics",
+  "Superhero": "Valkyrie (MCU)",
+  "identity": "Brunnhilde",
+  "gender": "Female",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 95,
+  "speed": 85,
+  "durability": 95,
+  "power": 95,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16922"
+  },
+  "id": 535,
+  "Universe": "Marvel Comics",
+  "Superhero": "Valkyrie",
+  "identity": "Brunnhilde",
+  "gender": "Female",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 60,
+  "speed": 70,
+  "durability": 80,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16923"
+  },
+  "id": 536,
+  "Universe": "Marvel Comics",
+  "Superhero": "Venom III",
+  "identity": "MacDonald Gargan",
+  "gender": "Male",
+  "race": "Symbiote",
+  "alignment": "Bad",
+  "intelligence": 80,
+  "strength": 75,
+  "speed": 35,
+  "durability": 90,
+  "power": 75,
+  "combat": 55
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16924"
+  },
+  "id": 537,
+  "Universe": "Marvel Comics",
+  "Superhero": "Venom",
+  "identity": "Eddie Brock",
+  "gender": "Male",
+  "race": "Symbiote",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 55,
+  "speed": 65,
+  "durability": 85,
+  "power": 85,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16925"
+  },
+  "id": 538,
+  "Universe": "DC Comics",
+  "Superhero": "Vibe (CW)",
+  "identity": "Cisco Ramon",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 10,
+  "speed": 45,
+  "durability": 40,
+  "power": 80,
+  "combat": 65
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16926"
+  },
+  "id": 539,
+  "Universe": "DC Comics",
+  "Superhero": "Vibe",
+  "identity": "Cisco Ramon",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 10,
+  "speed": 15,
+  "durability": 30,
+  "power": 100,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16927"
+  },
+  "id": 540,
+  "Universe": "DC Comics",
+  "Superhero": "Vigilante (CW)",
+  "identity": "Vincent Sobel",
+  "gender": "Male",
+  "race": "Metahuman",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 15,
+  "speed": 45,
+  "durability": 60,
+  "power": 70,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16928"
+  },
+  "id": 541,
+  "Universe": "Marvel Comics",
+  "Superhero": "Vili",
+  "identity": "Vili",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 55,
+  "speed": 70,
+  "durability": 85,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16929"
+  },
+  "id": 542,
+  "Universe": "Dark Horse Comics",
+  "Superhero": "Violet Parr",
+  "identity": "Violet Parr",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 15,
+  "durability": 50,
+  "power": 80,
+  "combat": 15
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692a"
+  },
+  "id": 543,
+  "Universe": "Marvel Comics",
+  "Superhero": "Vision",
+  "identity": "Vision",
+  "gender": "Male",
+  "race": "Android",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 70,
+  "speed": 55,
+  "durability": 95,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692b"
+  },
+  "id": 544,
+  "Universe": "DC Comics",
+  "Superhero": "Vixen (CW)",
+  "identity": "Amaya Jiwe",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 50,
+  "speed": 65,
+  "durability": 55,
+  "power": 80,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692c"
+  },
+  "id": 545,
+  "Universe": "DC Comics",
+  "Superhero": "Vixen II (CW)",
+  "identity": "Mari",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 50,
+  "speed": 70,
+  "durability": 60,
+  "power": 100,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692d"
+  },
+  "id": 546,
+  "Universe": "DC Comics",
+  "Superhero": "Vixen",
+  "identity": "Mari McCabe",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 75,
+  "strength": 40,
+  "speed": 50,
+  "durability": 50,
+  "power": 60,
+  "combat": 25
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692e"
+  },
+  "id": 547,
+  "Universe": "Marvel Comics",
+  "Superhero": "Volstagg (MCU)",
+  "identity": "Volstagg",
+  "gender": "Male",
+  "race": "Asgardian",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 60,
+  "speed": 55,
+  "durability": 80,
+  "power": 75,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1692f"
+  },
+  "id": 548,
+  "Universe": "Marvel Comics",
+  "Superhero": "Vulture (MCU)",
+  "identity": "Adrian Toomes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 85,
+  "strength": 45,
+  "speed": 60,
+  "durability": 55,
+  "power": 60,
+  "combat": 75
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16930"
+  },
+  "id": 549,
+  "Universe": "Marvel Comics",
+  "Superhero": "Vulture",
+  "identity": "Adrian Toomes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 90,
+  "strength": 20,
+  "speed": 40,
+  "durability": 25,
+  "power": 25,
+  "combat": 30
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16931"
+  },
+  "id": 550,
+  "Universe": "Marvel Comics",
+  "Superhero": "Walrus",
+  "identity": "Hubert Carpent",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 75,
+  "strength": 30,
+  "speed": 10,
+  "durability": 50,
+  "power": 10,
+  "combat": 20
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16932"
+  },
+  "id": 551,
+  "Universe": "Marvel Comics",
+  "Superhero": "War Machine",
+  "identity": "James Rhodes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 80,
+  "speed": 65,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16933"
+  },
+  "id": 552,
+  "Universe": "Marvel Comics",
+  "Superhero": "Warpath",
+  "identity": "James Proudstar",
+  "gender": "Male",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 70,
+  "speed": 45,
+  "durability": 70,
+  "power": 25,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16934"
+  },
+  "id": 553,
+  "Universe": "Capcom",
+  "Superhero": "Wesker",
+  "identity": "Albert Wesker",
+  "gender": "Male",
+  "race": "Human / Altered",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 50,
+  "speed": 50,
+  "durability": 50,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16935"
+  },
+  "id": 554,
+  "Universe": "DC Comics",
+  "Superhero": "White Canary (CW)",
+  "identity": "Sara Lance",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 20,
+  "speed": 100,
+  "durability": 50,
+  "power": 55,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16936"
+  },
+  "id": 555,
+  "Universe": "Marvel Comics",
+  "Superhero": "White Wolf (MCU)",
+  "identity": "James Buchanan Barnes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 50,
+  "speed": 60,
+  "durability": 60,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16937"
+  },
+  "id": 556,
+  "Universe": "DC Comics",
+  "Superhero": "Wild Dog (CW)",
+  "identity": "Rene Ramirez",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 15,
+  "speed": 35,
+  "durability": 45,
+  "power": 40,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16938"
+  },
+  "id": 557,
+  "Universe": "Marvel Comics",
+  "Superhero": "William Stryker (FOX)",
+  "identity": "William Stryker, Jr.",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 100,
+  "strength": 15,
+  "speed": 15,
+  "durability": 25,
+  "power": 20,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16939"
+  },
+  "id": 558,
+  "Universe": "Marvel Comics",
+  "Superhero": "Winter Soldier",
+  "identity": "Bucky Barnes",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 30,
+  "speed": 35,
+  "durability": 65,
+  "power": 60,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693a"
+  },
+  "id": 559,
+  "Universe": "DC Comics",
+  "Superhero": "Wonder Girl (Titans)",
+  "identity": "Donna Troy",
+  "gender": "Female",
+  "race": "Amazon",
+  "alignment": "Good",
+  "intelligence": 100,
+  "strength": 95,
+  "speed": 65,
+  "durability": 65,
+  "power": 70,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693b"
+  },
+  "id": 560,
+  "Universe": "DC Comics",
+  "Superhero": "Wonder Girl",
+  "identity": "Diana Prince",
+  "gender": "Female",
+  "race": "Demi-God",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 100,
+  "speed": 75,
+  "durability": 100,
+  "power": 100,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693c"
+  },
+  "id": 561,
+  "Universe": "Marvel Comics",
+  "Superhero": "Wong (MCU)",
+  "identity": "Wong",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 70,
+  "strength": 60,
+  "speed": 40,
+  "durability": 45,
+  "power": 100,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693d"
+  },
+  "id": 562,
+  "Universe": "Marvel Comics",
+  "Superhero": "World Breaker Hulk",
+  "identity": "Bruce Banner",
+  "gender": "Male",
+  "race": "Human / Radiation",
+  "alignment": "Good",
+  "intelligence": 85,
+  "strength": 100,
+  "speed": 85,
+  "durability": 100,
+  "power": 100,
+  "combat": 85
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693e"
+  },
+  "id": 563,
+  "Universe": "Marvel Comics",
+  "Superhero": "X-23 (FOX)",
+  "identity": "Laura Kinney",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 65,
+  "speed": 70,
+  "durability": 85,
+  "power": 85,
+  "combat": 80
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd1693f"
+  },
+  "id": 564,
+  "Universe": "Marvel Comics",
+  "Superhero": "X-23",
+  "identity": "Laura Kinney",
+  "gender": "Female",
+  "race": "Mutant / Clone",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 25,
+  "speed": 40,
+  "durability": 100,
+  "power": 55,
+  "combat": 95
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16940"
+  },
+  "id": 565,
+  "Universe": "Marvel Comics",
+  "Superhero": "YellowJacket (MCU)",
+  "identity": "Darren Cross",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Bad",
+  "intelligence": 95,
+  "strength": 35,
+  "speed": 60,
+  "durability": 70,
+  "power": 70,
+  "combat": 70
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16941"
+  },
+  "id": 566,
+  "Universe": "Marvel Comics",
+  "Superhero": "Yellowjacket",
+  "identity": "Hank Pym",
+  "gender": "Male",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 10,
+  "speed": 10,
+  "durability": 30,
+  "power": 10,
+  "combat": 15
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16942"
+  },
+  "id": 567,
+  "Universe": "Marvel Comics",
+  "Superhero": "Yo-yo (MCU)",
+  "identity": "Elena Rodriguez",
+  "gender": "Female",
+  "race": "Inhuman",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 35,
+  "speed": 100,
+  "durability": 40,
+  "power": 60,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16943"
+  },
+  "id": 568,
+  "Universe": "George Lucas",
+  "Superhero": "Yoda",
+  "identity": "Yoda",
+  "gender": "Male",
+  "race": "Yoda's species",
+  "alignment": "Good",
+  "intelligence": 95,
+  "strength": 50,
+  "speed": 35,
+  "durability": 25,
+  "power": 100,
+  "combat": 90
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16944"
+  },
+  "id": 569,
+  "Universe": "Marvel Comics",
+  "Superhero": "Yukio (FOX)",
+  "identity": "Yukio",
+  "gender": "Female",
+  "race": "Mutant",
+  "alignment": "Good",
+  "intelligence": 80,
+  "strength": 10,
+  "speed": 50,
+  "durability": 30,
+  "power": 45,
+  "combat": 100
+},{
+  "_id": {
+    "$oid": "60c2f2299d51d937ccd16945"
+  },
+  "id": 570,
+  "Universe": "DC Comics",
+  "Superhero": "Zatanna",
+  "identity": "Zatanna Zatara",
+  "gender": "Female",
+  "race": "Human",
+  "alignment": "Good",
+  "intelligence": 90,
+  "strength": 10,
+  "speed": 25,
+  "durability": 30,
+  "power": 100,
+  "combat": 55
+}]

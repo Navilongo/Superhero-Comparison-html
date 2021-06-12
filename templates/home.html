@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block title %}
+Home Page
+{% endblock %} 
+
+{% block content %}
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Banner Box -->
+                <div class="box">
+                    <h3 style='color: black'> Excelsior!</h3>
+                    <hr>    
+                    <img style="max-width: 1000px;" src="{{url_for('static', filename='Project_Heroes_Banner.jpg')}}">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p style='color: black'>
+        "The idea behind our team project was based on superhero teams fighting each other 
+        to conclude which of them would win by predicting their collective team stats of power, strength, skills, speed, and more.
+        You can use the navigation visualization to view our results of the chosen teams to test below."
+    </p>
+    
+        
+    <div class="box">
+        
+        <h1 style='color: black'> Who would win?..</h1>
+        <hr>
+        <div class="container">
+            <div class="row" style="padding-bottom: 30px;">
+                <div class="col-6">
+                    <img class="panel" src="{{url_for('static', filename='Project_Heroes_Versus_Background.jpg')}}">
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %} 
