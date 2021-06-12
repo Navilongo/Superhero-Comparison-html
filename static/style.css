@@ -1,1 +1,21 @@
-body {color:#CD2D48;}
+body {color:#000000;}
+
+.title{
+    color:#000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-top: 25px;
+}
+/* Paragraph Element */
+p{
+    color:#000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+/* Box Class */
+.box {
+    margin-top: 60px;
+    margin-bottom: 62px;
+    padding: 10px 20px 15px;
+    color: black;
+    background-color: white;
