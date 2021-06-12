@@ -1,21 +1,30 @@
-from flask import Flask, render_template, url_for, json 
+from flask import Flask, render_template
+from flask_assets import Bundle
+import sqlite3
 import os
-
 
 app = Flask(__name__)
 
 
+@app.route("/home")
 @app.route("/")
-def index():
-    return render_template("heroes.html")
+def home():
+    return render_template("home.html")
 
-@app.route("/api/v1.0/heroes")
-def heroes():
-    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
-    json_url = os.path.join(SITE_ROOT, "data/json", "heroes.json")
-    data = json.load(open(json_url))
-    """Return all general hero data"""
-    return render_template('showjson.jade', data=data)
+@app.route("/versus")
+def versus():
+    return render_template("versus.html")
+
+@app.route("/index")
+def index():
+    return render_template("index.html")
+
+@app.route("/query")
+def query():
+
+    args = request.args
+
+    print(args)
 
 
 if __name__ =='__main__':
