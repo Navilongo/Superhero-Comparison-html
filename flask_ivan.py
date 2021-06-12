@@ -39,6 +39,10 @@ def sinister_six():
 
     return jsonify(sinister_six_members)
 
+@app.route("/heroesjson")
+def hero_json():
+    return render_template("heroe_json.html")
+
 
 if __name__ =='__main__':
     app.run(debug=True)
