@@ -1,7 +1,6 @@
 from flask import Flask, render_template
 from flask_assets import Bundle
-import sqlite3
-import os
+
 
 app = Flask(__name__)
 
@@ -14,17 +13,10 @@ def home():
 @app.route("/versus")
 def versus():
     return render_template("versus.html")
-
-@app.route("/index")
-def index():
-    return render_template("index.html")
-
-@app.route("/query")
-def query():
-
-    args = request.args
-
-    print(args)
+    
+@app.route("/heroes_data")
+def heroes_data():
+    return render_template("heroes_data.html")
 
 
 if __name__ =='__main__':
