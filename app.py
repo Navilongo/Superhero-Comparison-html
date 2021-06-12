@@ -18,6 +18,11 @@ def versus():
 def heroes_data():
     return render_template("heroes_data.html")
 
+@app.route("/heroes_data2")
+def heroes_data():
+    return render_template("heroes_data2.html")
+
+
 
 if __name__ =='__main__':
     app.run(debug=True)
