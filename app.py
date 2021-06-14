@@ -2,27 +2,26 @@ from flask import Flask, render_template
 from flask_assets import Bundle
 
 
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.sql import text
+from flask import Flask, render_template
+
+
 app = Flask(__name__)
 
 
-@app.route("/home")
 @app.route("/")
-def home():
-    return render_template("home.html")
+def index():
 
-@app.route("/versus")
-def versus():
-    return render_template("versus.html")
-    
-@app.route("/heroes_data")
-def heroes_data():
-    return render_template("heroes_data.html")
-
-@app.route("/heroes_data2")
-def heroes_data():
-    return render_template("heroes_data2.html")
+    return render_template("index.html")
 
 
+@app.route("/X-men_versus_Avengers")
+def xmen():
 
-if __name__ =='__main__':
+    return render_template("X-Men_versus_Avengers.html")
+
+
+if __name__ == "__main__":
     app.run(debug=True)
