@@ -1,11 +1,13 @@
-
-$.ajax({
-	type : "POST",
-	url : '/api/v1.0/sinister-six',
-	dataType: "json",
-	data: JSON.stringify,
-	contentType: 'application/json;charset=UTF-8',
-	success: function (data) {
-		console.log(data);
-		}
-	});
+var trace1 = {
+	x: ["Intelligence", "Strength", "Speed", "Durability"],
+	y: [84, 33, 13, 17],
+	mode: 'markers+lines',
+	type: 'scatter',
+	name: 'Sinister Six'
+  };
+  
+ 
+  
+  var data = [];
+  
+  Plotly.newPlot('myDiv', data);

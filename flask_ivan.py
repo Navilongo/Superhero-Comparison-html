@@ -2,7 +2,7 @@ from flask import Flask, render_template, jsonify
 from flask_assets import Bundle
 import sqlite3
 import os
-
+00 
 # Sinister Six dictionary
 sinister_six_members = [
    {"Universe": "Marvel Comics", "Superhero": "Doctor Octopus", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 95, "strength": 50, "speed": 50, "durability": 35, "power": 55, "combat": 65},
@@ -33,7 +33,7 @@ def versus():
 def index():
     return render_template("index.html")
 
-@app.route("/api/v1.0/sinister-six")
+@app.route("/sinister-six")
 def sinister_six():
     """Return the sinister six data as json"""
 
@@ -42,6 +42,8 @@ def sinister_six():
 @app.route("/heroesjson")
 def hero_json():
     return render_template("heroe_json.html")
+
+
 
 
 if __name__ =='__main__':
