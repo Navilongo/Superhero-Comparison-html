@@ -17,6 +17,20 @@ sinister_six_members = [
    {"Universe": "Marvel Comics", "Superhero": "Vulture", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 90, "strength": 20, "speed": 40, "durability": 25, "power": 25, "combat": 30}
    ]
 
+# Suicide Squad 
+suicide_squad = [
+    {"Universe": "DC Comics", "Superhero": "Black Manta", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 85, "strength": 45, "speed": 55, "durability": 55, "power": 75, "combat": 85},
+    {"Universe": "DC Comics", "Superhero": "Captain Boomerang", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 60, "strength": 15, "speed": 40, "durability": 40, "power": 40, "combat": 80},
+    {"Universe": "DC Comics", "Superhero": "Deadshot", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 85, "strength": 10, "speed": 25, "durability": 35, "power": 40, "combat": 90},
+    {"Universe": "DC Comics", "Superhero": "Deathstroke", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 90, "strength": 30, "speed": 35, "durability": 70, "power": 100, "combat": 100},
+    {"Universe": "DC Comics", "Superhero": "El Diablo", "gender": "Male", "race": "Human", "alignment": "Neutral", "intelligence": 60, "strength": 20, "speed": 30, "durability": 80, "power": 100, "combat": 70},
+    {"Universe": "DC Comics", "Superhero": "Harley Quinn", "gender": "Female", "race": "Human", "alignment": "Bad", "intelligence": 95, "strength": 10, "speed": 35, "durability": 65, "power": 55, "combat": 80},
+    {"Universe": "DC Comics", "Superhero": "Joker", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 100, "strength": 10, "speed": 10, "durability": 60, "power": 45, "combat": 70},
+    {"Universe": "DC Comics", "Superhero": "Katana", "gender": "Female", "race": "Human", "alignment": "Bad", "intelligence": 70, "strength": 10, "speed": 50, "durability": 40, "power": 55, "combat": 100},
+    {"Universe": "DC Comics", "Superhero": "Killer Croc", "gender": "Male", "race": "Metahuman", "alignment": "Bad", "intelligence": 90, "strength": 60, "speed": 40, "durability": 85, "power": 75, "combat": 75},
+    {"Universe": "DC Comics", "Superhero": "Killer Frost", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 95, "strength": 10, "speed": 15, "durability": 35, "power": 60, "combat": 30}
+    ]
+
 app = Flask(__name__)
 
 
