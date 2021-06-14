@@ -31,6 +31,35 @@ suicide_squad = [
     {"Universe": "DC Comics", "Superhero": "Killer Frost", "gender": "Male", "race": "Human", "alignment": "Bad", "intelligence": 95, "strength": 10, "speed": 15, "durability": 35, "power": 60, "combat": 30}
     ]
 
+# X-Men
+x_men = [
+    {"Universe": "Marvel Comics", "Superhero": "Mystique", "gender": "Female", "race": "Mutant", "alignment": "Bad", "intelligence": 95, "strength": 25, "speed": 50, "durability": 50, "power": 95, "combat": 100},
+    {"Universe": "Marvel Comics", "Superhero": "Nightcrawler", "gender": "Male", "race": "Mutant", "alignment": "Good", "intelligence": 70, "strength": 10, "speed": 60, "durability": 20, "power": 75, "combat": 85},
+    {"Universe": "Marvel Comics", "Superhero": "Polaris", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 80, "strength": 10, "speed": 30, "durability": 25, "power": 100, "combat": 70},
+    {"Universe": "Marvel Comics", "Superhero": "Professor X", "gender": "Male", "race": "Mutant", "alignment": "Good", "intelligence": 100, "strength": 10, "speed": 10, "durability": 15, "power": 100, "combat": 60},
+    {"Universe": "Marvel Comics", "Superhero": "Psylocke", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 80, "strength": 35, "speed": 25, "durability": 40, "power": 100, "combat": 90},
+    {"Universe": "Marvel Comics", "Superhero": "Rogue", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 90, "strength": 20, "speed": 45, "durability": 45, "power": 90, "combat": 85},
+    {"Universe": "Marvel Comics", "Superhero": "Storm", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 75, "strength": 25, "speed": 65, "durability": 45, "power": 100, "combat": 70},
+    {"Universe": "Marvel Comics", "Superhero": "X-23", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 90, "strength": 65, "speed": 70, "durability": 85, "power": 85, "combat": 80},
+    {"Universe": "Marvel Comics", "Superhero": "Jubilee", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 80, "strength": 10, "speed": 20, "durability": 20, "power": 65, "combat": 90},
+    {"Universe": "Marvel Comics", "Superhero": "Jean Grey", "gender": "Female", "race": "Mutant", "alignment": "Good", "intelligence": 95, "strength": 80, "speed": 20, "durability": 20, "power": 95, "combat": 70}                     
+]
+
+# Avengers
+avengers = [
+    {"Universe": "Marvel Comics", "Superhero": "Antman", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 100, "strength": 35, "speed": 50, "durability": 60, "power": 65, "combat": 80},
+    {"Universe": "Marvel Comics", "Superhero": "Falcon", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 70, "strength": 15, "speed": 50, "durability": 30, "power": 20, "combat": 65},
+    {"Universe": "Marvel Comics", "Superhero": "Hawkeye", "gender": "Female", "race": "Human", "alignment": "Good", "intelligence": 75, "strength": 5, "speed": 10, "durability": 10, "power": 25, "combat": 50},
+    {"Universe": "Marvel Comics", "Superhero": "Hulk", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 60, "strength": 100, "speed": 85, "durability": 100, "power": 100, "combat": 85},
+    {"Universe": "Marvel Comics", "Superhero": "Nick Fury", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 95, "strength": 15, "speed": 30, "durability": 45, "power": 35, "combat": 85},
+    {"Universe": "Marvel Comics", "Superhero": "Quicksilver", "gender": "Male", "race": "Mutant", "alignment": "Good", "intelligence": 80, "strength": 30, "speed": 100, "durability": 60, "power": 80, "combat": 55},
+    {"Universe": "Marvel Comics", "Superhero": "Spider-Man", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 90, "strength": 55, "speed": 65, "durability": 70, "power": 70, "combat": 80},
+    {"Universe": "Marvel Comics", "Superhero": "Thor", "gender": "Male", "race": "God", "alignment": "Good", "intelligence": 85, "strength": 100, "speed": 100, "durability": 100, "power": 100, "combat": 100},
+    {"Universe": "Marvel Comics", "Superhero": "Vision", "gender": "Male", "race": "Android", "alignment": "Good", "intelligence": 100, "strength": 70, "speed": 55, "durability": 95, "power": 100, "combat": 70},
+    {"Universe": "Marvel Comics", "Superhero": "War Machine", "gender": "Male", "race": "Human", "alignment": "Good", "intelligence": 80, "strength": 80, "speed": 65, "durability": 100, "power": 100, "combat": 85}
+]
+
+
 app = Flask(__name__)
 
 
