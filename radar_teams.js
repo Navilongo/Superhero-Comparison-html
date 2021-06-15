@@ -48,6 +48,34 @@ data = [
       fill: 'toself',
       name: 'Guardians of the Galaxy'
     },
+    { // Secret Society of Super-Villains
+      type: 'scatterpolar',
+      r: [89, 67, 52, 70, 73, 78, 89],
+      theta: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat", "Intelligence"],
+      fill: 'toself',
+      name: 'Secret Society of Super-Villains'
+    },
+    { // Watchmen
+      type: 'scatterpolar',
+      r: [88, 35, 32, 43, 48, 75, 88],
+      theta: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat", "Intelligence"],
+      fill: 'toself',
+      name: 'Watchmen'
+    },
+    { // Justice League
+      type: 'scatterpolar',
+      r: [90, 43, 59, 70, 71, 84, 90],
+      theta: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat", "Intelligence"],
+      fill: 'toself',
+      name: 'Justice League'
+    },
+    { // Teen Titans
+      type: 'scatterpolar',
+      r: [79, 39, 53, 57, 78, 66, 79],
+      theta: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat", "Intelligence"],
+      fill: 'toself',
+      name: 'Teen Titans'
+    }
   ]
   
   layout = {
