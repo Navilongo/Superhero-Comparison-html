@@ -79,6 +79,26 @@ def xmen():
 
     return render_template("X-Men_versus_Avengers.html")
 
+@app.route("/avengers_visualized")
+def avengers_visualized():
+
+    return render_template("avengers_visualized.html")
+
+@app.route("/sinistersix_visualized")
+def sinistersix_visualized():
+
+    return render_template("sinistersix_visualized.html")
+
+@app.route("/sinistersixVSsuicidesquad")
+def sinister_suicide():
+
+    return render_template("sinistersix_suicidesquad.html")
+
+@app.route("/xmen_avengers")
+def x_men_avengers():
+
+    return render_template("xmen_avengers.html")
+
 @app.route("/sinister-six")
 def sinister_six():
     """Return the sinister six data as json"""
