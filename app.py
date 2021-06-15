@@ -2,10 +2,7 @@ from flask import Flask, render_template, jsonify
 from flask_assets import Bundle
 import os 
 
-from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.sql import text
-from flask import Flask, render_template
 
 
 # Sinister Six dictionary
@@ -82,7 +79,7 @@ def xmen():
 @app.route("/avengers_visualized")
 def avengers_visualized():
 
-    return render_template("avengers_visualized.html")
+    return render_template("avengers_visualized")
 
 @app.route("/sinistersix_visualized")
 def sinistersix_visualized():

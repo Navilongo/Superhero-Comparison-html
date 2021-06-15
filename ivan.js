@@ -114,8 +114,8 @@ var trace1 = {
   */
 
   // Avengers vs X men
-  /*
-
+  
+/*
   var trace1 = {
 	x: [86, 29, 40, 37, 91, 80],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
@@ -147,10 +147,12 @@ var trace1 = {
 	barmode: 'stack'
   };
   
-  Plotly.newPlot('myDiv', data, layout);
+  Plotly.newPlot('x_men_avengers', data, layout);
 */
 
-var trace1 = {
+// Avengers visualized individually
+
+var av_trace1 = {
 	x: [100, 35, 50, 60, 65, 80],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Antman',
@@ -159,7 +161,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace2 = {
+  var av_trace2 = {
 	x: [70, 15, 50, 30, 20, 65],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Falcon',
@@ -168,7 +170,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace3 = {
+  var av_trace3 = {
 	x: [75, 5, 10, 10, 25, 50],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Hawkeye',
@@ -177,7 +179,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace4 = {
+  var av_trace4 = {
 	x: [60, 100, 85, 100, 100, 85],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Hulk',
@@ -186,7 +188,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace5 = {
+  var av_trace5 = {
 	x: [95, 15, 30, 45, 35, 85],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Nick Fury',
@@ -195,7 +197,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace6 = {
+  var av_trace6 = {
 	x: [80, 30, 100, 60, 80, 55],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Quicksilver',
@@ -204,7 +206,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace7 = {
+  var av_trace7 = {
 	x: [90, 55, 65, 70, 70, 80],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Spider-man',
@@ -213,7 +215,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace8 = {
+  var av_trace8 = {
 	x: [85, 100, 100, 100, 100, 100],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Thor',
@@ -222,7 +224,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace9 = {
+  var av_trace9 = {
 	x: [100, 70, 55, ,95, 100, 70],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'Vision',
@@ -231,7 +233,7 @@ var trace1 = {
 	type: 'bar'
   };
 
-  var trace10 = {
+  var av_trace10 = {
 	x: [80, 80, 65, 100, 100, 85],
 	y: ["Intelligence", "Strength", "Speed", "Durability", "Power", "Combat"],
 	name: 'War Machine',
@@ -242,11 +244,11 @@ var trace1 = {
   
   
   
-  var data = [trace1, trace2, trace3, trace4, trace5, trace6, trace7, trace8, trace9, trace10];
+  var av_data = [av_trace1, av_trace2, av_trace3, av_trace4, av_trace5, av_trace6, av_trace7, av_trace8, av_trace9, av_trace10];
   
-  var layout = {
-	title: 'Colored Bar Chart',
+  var av_layout = {
+	title: 'MCU Avengers Visualized',
 	barmode: 'stack'
   };
   
-  Plotly.newPlot('myDiv', data, layout);
+  Plotly.newPlot('avengers', av_data, av_layout);
