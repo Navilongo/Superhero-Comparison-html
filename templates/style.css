@@ -1,0 +1,66 @@
+.navbar-collapse{
+    align-content: 
+}
+
+.navbar-brand{
+    height: 30px;
+    padding: 1px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+    color: white;
+    background: rgb(148, 173, 207);
+}
+
+button{
+    color: rgb(148, 173, 207);
+}
+
+#latbox{
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.float-container{
+    padding: 25px;
+    align-content: center;
+}
+
+.float-child{
+    width: 650px;
+    float: left;
+    padding: 50px;
+    border: 2px ;
+    margin-right: 40px;
+    align-content: center;
+    text-align: left;
+    background-color: white;
+}
+
+.float-child_v{
+    width: 100%;
+    float: left;
+    padding: 50px;
+    border: 2px ;
+    margin-right: 40px;
+    align-content: center;
+    text-align: left;
+    background-color: white;
+}
+*pcdbar{
+    text-align: end;
+}
+
+h1{
+    font-size: 85px;
+    color: rgb(0, 53, 128);
+}
+
+h3{
+    font-size: 25 px;
+    color: rgb(0, 53, 128);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}

@@ -3,99 +3,130 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+  <title>Super Heroes</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
 </head>
 
-<body">
-  <div class="container">
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html" id="latbox">HOME</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <div class="jumbotron text-center">
-      
-      <!-- Banner message with banner -->
-      <h1>Presenting Project Heroes!</h1>
-      <p>presented by Ron Ivan Cecilia and Calvin</p>
-      <img style="max-width: 1000px;" src="{{url_for('static', filename='Project_Heroes_Banner.jpg')}}">
-
-    </div>
-    
-        <!-- Project intro-->
-        <div class="w3-panel w3-padding-64">
-          <h2>What is this?</h2>
-
-          <p>"The idea behind our team project was based on superhero teams fighting each other 
-            to conclude which of them would win by predicting their collective team stats of power, strength, skills, speed, and more.
-            You can use the navigation visualization to view our results of the chosen teams to test below."</p>
-
-        </div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown" id="pcdnav">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            VERSUS
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="sinistersix_suicidesquad.html">Sinister Six vs. Suicide Squad</a>
+            <a class="dropdown-item" href="xmen_avengers.html">X-Men vs. Avengers</a>
+          </div>
+        </li>
+        <li>
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Teams Visualized
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="sinistersix_visualized.html">Sinister Visualization</a>
+            <a class="dropdown-item" href="xmen_avengers.html">Avengers Visualization</a>
+          </div>
           
-          <div class="w3-container w3-center">
-            <h3>Links</h3>
-
-            <p>Click <a href="X-Men_versus_Avengers">X-Men versus Avengers </a> to see who would win!</p>
-            <p>Click <a href="/Justice League versus Avengers">Justice League versus Avengers </a> to see who would win!</p>
-            <p>Click <a href="/Universe Battle Royale">Universe Battle Royale </a> to see the comparison of all superhero universes!</p>
-          </div>
-  </div>
-  
-    <div class="wrapper">
-        <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
-            <a class="navbar-brand" href="index.html">SuperHeroes</a>
-        </nav>
-
-          <div class="container_fluid">
-              <div class="row">
-                  <div class="col-md-3">
-                    <form class="bg-dark">
-                        <p>Filter Search</p>
-                        <ul class="list-group" class="bg-dark">
-                            <li class="bg-dark">
-                                <label for="Universe">Choose your universe!</label><br>
-                                <input type="text" class="form_control" placeholder="Marvel" id="Universe" />                                   
-                            </li>
-                            <li class="bg-dark" class="list-group-item">
-                                <label for="gender">Enter gender</label><br>
-                                <input type="text" class="form_control" width:100% placeholder="Male" id="gender" />                            
-                            </li>
-                            <li class="bg-dark">
-                                <label for="race">Enter race</label><br>
-                                <input type="text" class="form_control" width:100% placeholder="Human" id="race" />                            
-                            </li>
-                            <li class="bg-dark">
-                                <label for="alignment">Good, Bad, or Neutral?</label><br>
-                                <input type="text" class="form_control" width:100% placeholder="Good" id="alignment" />                            
-                            </li>
-                            <li class="bg-dark">
-                                <label for="intelligence">intelligence level</label><br>
-                                <input type="text" class="form_control" width:100% placeholder="80" id="intelligence" />                            
-                            </li>
-                            <!-- Remove button <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button> -->
-                        </ul>
-                    </form>
-                  </div>
-                  <div class="col-md-9">
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th>Universe</th>
-                                <th>gender</th>
-                                <th>race</th>
-                                <th>alignment</th>
-                                <th>intelligence</th>
-
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                  </div>
-              </div>
-          </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="radars.html">Radar Graphs</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="data.html">Extra Page</a>
+        </li>
+      </ul>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-    <script src="js\data.js"></script>
-    <script src="js\app.js"></script>
+  </nav>
+  </body>
+
+  <body>
+    <div class="container">
+
+        <div class="jumbotron text-center">
+          
+          <!-- Banner message with banner -->
+          <h1>Welcome to Project Heroes!</h1>
+          <p> Presented by Ron, Ivan, Cecilia and Calvin.</p>
+          <img style="max-width: 900px;" src="Project_Heroes_Banner.jpg">
+    
+        </div>
+        
+            <!-- Project intro-->
+            <div class="w3-panel w3-padding-64">
+              <h2>What is this?</h2>
+    
+              <p>"The idea behind our team project was based on superhero teams fighting each other 
+                to conclude which of them would win by predicting their collective team stats of power, strength, skills, speed, and more.
+                You can use the navigation visualization to view our results of the chosen teams to test below."</p>
+    
+            </div>
+              
+              <div class="w3-container w3-center">
+                <h3>Direct Links;</h3>
+    
+                <p>Click <a href="xmen_avengers.html">X-Men versus Avengers </a> to see who would win!</p>
+                <p>Click <a href="sinistersix_suicidesquad.html">Sinester Six versus Suicide Squad </a> to see who would win!</p>
+                <p>Click <a href="avengers_visualized.html">Avengers Visualized </a> to see the comparison of the superhero powers inside the team!</p>
+                <p>Click <a href="sinistersix_visualized.html">Sinister Six Visualized </a> to see the comparison of the superhero powers inside the team!</p>
+              </div>
+      </div>
+  </body>
+  <body>
+    <div class="float-container">
+    <div class="col-sm-10 col-lg-10">
+        
+        <div class="float-child">
+            <div class="row">
+            <!--<div class="col-lg-5 col-sm-3">-->
+                 <h3>Visualizations</h3>
+                    <div class="row">
+                    <!--<div class="col-sm">-->
+                        <!--a href="visualizations1.html"><img class="thumbnail" src="Resources/assets/images/Fig1.png" alt="MaxTemp Img" width="250px"-->
+                        </a>
+                    <!--</div>-->
+                    <!--</div>-->
+                    <!--<div class="row">-->
+                    <!--<div class="col-sm">-->
+                        <!--a href="visualizations2.html"><img class="thumbnail" src="Resources/assets/images/Fig2.png" alt="Humidity Img" width="250px"-->
+                        </a>
+                    <!--</div>-->
+                    </div>
+                    <div class="row">
+                    <!--<div class="col-sm">-->
+                        <!--a href="visualizations3.html"><img class="thumbnail" src="Resources/assets/images/Fig3.png" alt="Cloudiness Img" width="250px"-->
+                        </a>
+                    <!--</div>-->
+                    <!--</div>-->
+                    <!--<div class="row">-->
+                    <!--<div class="col-sm">-->
+                        <!--a href="visualizations4.html"><img class="thumbnail" src="Resources/assets/images/Fig4.png" alt="WSpeed Img" width="250px"-->
+                        </a>
+                    <!--</div>-->
+                    </div>
+
+
+                <!--</div>-->
+            </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>  
+
 </body>
 
 </html>
