@@ -81,7 +81,7 @@ def avengers_visualized():
 
     return render_template("avengers_visualized")
 
-@app.route("/sinistersix_visualized")
+@app.route("/sinistersix_visualized/")
 def sinistersix_visualized():
 
     return render_template("sinistersix_visualized.html")
@@ -91,7 +91,7 @@ def sinister_suicide():
 
     return render_template("sinistersix_suicidesquad.html")
 
-@app.route("/xmen_avengers")
+@app.route("/xmen_avengers/")
 def x_men_avengers():
 
     return render_template("xmen_avengers.html")
